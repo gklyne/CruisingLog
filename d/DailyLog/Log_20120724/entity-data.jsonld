@@ -2,12 +2,12 @@
   "rdfs:label": "2012-Jul-24: Congleton - Boseley Locks - Fools Nook",
   "rdfs:comment": "Refueled by barge Alton (Renaissance Carrying)\r\nEst 10\" before refuel.\r\nEngine: 75litres -> 22.5\"\r\nStove: 62 litres -> 20?\r\n",
   "ccl:water_level": "",
-  "ccl:stove_fuel": "18",
+  "ccl:stove_fuel": "20?",
   "annal:type_id": "DailyLog",
   "ccl:travel_hours": "5.5",
   "ccl:engine_fuel": "22.5",
   "ccl:place_moored": "Fools_Nook",
-  "annal:type": "annal:EntityData",
+  "ccl:engine_hours": "3609.5",
   "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120724/",
   "ccl:cruise_segments": [
     {
@@ -29,5 +29,5 @@
     "ccl:Type/DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3609.5"
+  "annal:type": "annal:EntityData"
 }
