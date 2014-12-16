@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Engine service",
+  "rdfs:comment": "Engine serviced by Ian Richards.  Mainly oil and filters change, and general look-over.\r\n\r\nApprox hours 3530.",
+  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Maintenance_20120413/",
+  "annal:type_id": "Maintenance",
+  "annal:id": "Maintenance_20120413",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Maintenance",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

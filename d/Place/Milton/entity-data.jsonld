@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Milton (Caldon canal)",
+  "rdfs:comment": "A village outside Stoke/Hanley.  A good safe stopping point just outside the Stoke 5-towns, but with limited moorings.  This might be seen as the changeover from the urban Caldon and the more pleasant rural Caldon.  Towards Stoke, after a couple of miles, the canal passes close to some rough estates, concerning which there have been reports of boaters being targeted by local gangs.\r\n\r\nUseful shops about 5 minutes walk.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Milton/",
+  "annal:id": "Milton",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

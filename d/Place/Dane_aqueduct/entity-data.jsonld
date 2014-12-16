@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Dane Aqueduct",
+  "rdfs:comment": "Spectacular remote moorings at the bottom of the Boseley Locks.\r\n\r\nServices at top of Boseley lock flight.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Dane_aqueduct/",
+  "annal:id": "Dane_aqueduct",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

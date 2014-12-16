@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Waterway",
+  "rdfs:comment": "Identity and description of a canal, river or other waterway",
+  "annal:type_id": "_type",
+  "annal:uri": "ccl:Type/Waterway",
+  "annal:url": "/annalist/c/CruisingLog/d/_type/Waterway/",
+  "annal:type_list": "Waterway_list",
+  "annal:id": "Waterway",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "Waterway_view"
+}

@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Fools Nook, Oakgrove (bridge 49? on Mac)",
+  "rdfs:comment": "Between Boseley Locks and Macclesfield.\r\n\r\nThere was a pub here, but it is since closed and up for sale.  Maybe it will return one day?\r\n\r\nMoorings near a lift bridge.\r\n\r\nSomewhere between here and the Boseley Locks is the home base of a fuel barge (Renaissance Carrying, Furness vale, http://furnessvale.blogspot.co.uk)  Their barge is called Alton.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Fools_Nook/",
+  "annal:id": "Fools_Nook",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

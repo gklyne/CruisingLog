@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Marple",
+  "rdfs:comment": "Pleasant town at the junction of the Macclesfield, Ashton and Peak Forest canals.\r\n\r\nServices here.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Marple/",
+  "annal:id": "Marple",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

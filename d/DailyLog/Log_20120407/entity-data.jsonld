@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "2012-Apr-07: Alrewas - Fradley - Rugely",
+  "rdfs:comment": "Alrewas - Fradley: 1.5 hrs\r\nFradley - Rugely: 5 hrs\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "6.5",
+  "ccl:engine_fuel": "",
+  "ccl:place_moored": "Rugely",
+  "ccl:engine_hours": "",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120407/",
+  "annal:id": "Log_20120407",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

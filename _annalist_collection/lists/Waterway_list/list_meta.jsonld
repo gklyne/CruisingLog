@@ -1,0 +1,28 @@
+{
+  "rdfs:label": "List of waterways",
+  "rdfs:comment": "List of waterways",
+  "annal:default_view": "Waterway_view",
+  "annal:default_type": "Waterway",
+  "annal:record_type": "ccl:Type/Waterway",
+  "annal:type_id": "_list",
+  "annal:list_entity_selector": "ccl:Type/Waterway in [@type]",
+  "annal:display_type": "List",
+  "annal:list_fields": [
+    {
+      "annal:field_placement": "small:0,3",
+      "annal:field_id": "Entity_id"
+    },
+    {
+      "annal:field_placement": "small:3,9",
+      "annal:field_id": "Entity_label"
+    }
+  ],
+  "annal:uri": "/annalist/c/CruisingLog/d/_list/Waterway_list/",
+  "annal:url": "/annalist/c/CruisingLog/d/_list/Waterway_list/",
+  "annal:id": "Waterway_list",
+  "@id": "./",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:type": "annal:List"
+}

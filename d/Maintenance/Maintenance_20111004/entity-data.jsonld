@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Engine start battery replaced",
+  "rdfs:comment": "Battery replaced (unnecessarily as it turns out) in attempt to resolve starting problem.\r\n\r\nSee also: Tech_engine_start_switch",
+  "annal:type_id": "Maintenance",
+  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Maintenance_20111004/",
+  "annal:id": "Maintenance_20111004",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Maintenance",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

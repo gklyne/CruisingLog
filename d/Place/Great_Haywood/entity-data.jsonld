@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Great Haywood",
+  "rdfs:comment": "Village with useful shops and pub, close to Shugborough hall.\r\n\r\nJunction with Stafford and Worcester canal above top lock.\r\n\r\nWater and rubbish disposal at the junction.  Elsan disposal available at Anglo Welsh or Gt Haywood Marinas (for a price).  Fuel available at Gt Haywood Marina.\r\n\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Great_Haywood/",
+  "annal:id": "Great_Haywood",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

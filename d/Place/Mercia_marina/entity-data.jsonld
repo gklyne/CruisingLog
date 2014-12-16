@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Mercia marina",
+  "rdfs:comment": "Home for us!\r\n\r\nBig chandlery (Midland), all facilities.  About 0.5 hour cruise from Willington village, which has shops, water, elsan, winding hole.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Mercia_marina/",
+  "annal:id": "Mercia_marina",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

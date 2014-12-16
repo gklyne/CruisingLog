@@ -1,0 +1,33 @@
+{
+  "rdfs:label": "2012-Apr-18: Wolseley Bridge - Fradley - Alrewas",
+  "rdfs:comment": "Timings include water top-up in Fradley",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "6.5",
+  "ccl:engine_fuel": "",
+  "ccl:place_moored": "Alrewas",
+  "ccl:engine_hours": "",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120418/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "4",
+      "ccl:place_departed": "Wolseley_bridge"
+    },
+    {
+      "ccl:travel_hours": "1",
+      "ccl:place_departed": "Fradley_top_lock"
+    },
+    {
+      "ccl:travel_hours": "1.5",
+      "ccl:place_departed": "Fradley_junction"
+    }
+  ],
+  "annal:id": "Log_20120418",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

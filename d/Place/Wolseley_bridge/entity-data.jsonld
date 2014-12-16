@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Wolseley bridge",
+  "rdfs:comment": "Rural location between Rugeley and Great Haywood, on tjhe East side of Cannock Chase.\r\n\r\nPub and well-rated Indian restaurant nearby.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Wolseley_bridge/",
+  "annal:id": "Wolseley_bridge",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

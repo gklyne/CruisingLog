@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Leek arm of Caldon",
+  "rdfs:comment": "Somewhere on the short run from Hazelhurst Junction to the tunnel to Leek.\r\n\r\nVery nice moorings overlooking the upper Churnet Valley (? or some stream that feeds the Churnet)",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Leek_arm/",
+  "annal:id": "Leek_arm",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

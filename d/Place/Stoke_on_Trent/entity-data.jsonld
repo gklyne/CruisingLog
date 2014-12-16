@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Stoke on Trent",
+  "rdfs:comment": "A fairly noisy mooring alongside a busy road, below Stoke bottom lock.  Towpath much used by local cycling commuters.\r\n\r\nNearest point of approach to Stoke centre and Stoke-on-Trent station.\r\n\r\nAbout 5 minutes from the station, and 10-15 minutes to Stoke centre.\r\n\r\n@@TODO: add map details, with location of motor factors and Nan shop",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Stoke_on_Trent/",
+  "annal:id": "Stoke_on_Trent",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,23 @@
+{
+  "rdfs:label": "Place departed",
+  "annal:property_uri": "ccl:place_departed",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(departure location)",
+  "annal:options_typeref": "Place",
+  "rdfs:comment": "Place of departure for segment of cruising",
+  "annal:field_entity_type": "",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_render_type": "Enum_optional",
+  "annal:url": "/annalist/c/CruisingLog/d/_field/Place_departed/",
+  "annal:restrict_values": "",
+  "annal:id": "Place_departed",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "2012-Apr-08: Rugely - Gt Haywood - Stone",
+  "rdfs:comment": "Rugely - Gt HaywoodL: 3 hrs\r\nGt Haywod - Stone: 5 hours\r\n\r\nFuel check in Gt Haywood: 17.5\"\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "8",
+  "ccl:engine_fuel": "17.5",
+  "ccl:place_moored": "Stone",
+  "ccl:engine_hours": "",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120408/",
+  "annal:id": "Log_20120408",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

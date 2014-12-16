@@ -1,0 +1,33 @@
+{
+  "rdfs:label": "2012-Jul-25: Fools Nook - Marple",
+  "rdfs:comment": "Refueled by barge Alton (Renaissance Carrying)\r\nEst 10\" before refuel.\r\nEngine: 75litres -> 22.5\"\r\nStove: 62 litres -> 20?\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "18",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "5.5",
+  "ccl:engine_fuel": "22.5",
+  "ccl:place_moored": "Marple",
+  "ccl:engine_hours": "3609.5",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120725/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "2.5",
+      "ccl:place_departed": "Fools_Nook"
+    },
+    {
+      "ccl:travel_hours": "2.5",
+      "ccl:place_departed": "Bollington"
+    },
+    {
+      "ccl:travel_hours": "0.75",
+      "ccl:place_departed": "Marple"
+    }
+  ],
+  "annal:id": "Log_20120725",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

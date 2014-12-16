@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "2014-Apr-14: Froghall - Denford - Leek arm",
+  "rdfs:comment": "Froghall - Denford: 4hrs\r\nDenford - Leek Arm 2-2.5 hrs\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "6.5",
+  "ccl:engine_fuel": "",
+  "ccl:place_moored": "Leek_arm",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120414/",
+  "annal:id": "Log_20120414",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": ""
+}

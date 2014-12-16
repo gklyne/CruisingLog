@@ -1,0 +1,21 @@
+{
+  "rdfs:label": "Water level",
+  "rdfs:comment": "Watertank level,in inchest",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(water tank llevel)",
+  "annal:property_uri": "ccl:water_level",
+  "annal:options_typeref": "",
+  "@id": "./",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:uri": "/annalist/c/CruisingLog/d/_field/Water_level/",
+  "annal:field_render_type": "Text",
+  "annal:url": "/annalist/c/CruisingLog/d/_field/Water_level/",
+  "annal:restrict_values": "",
+  "annal:id": "Water_level",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Gurnet",
+  "rdfs:comment": "Village and moorings (and country club/park?) on Southern approach to Macclesfield.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Gurnet/",
+  "annal:id": "Gurnet",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

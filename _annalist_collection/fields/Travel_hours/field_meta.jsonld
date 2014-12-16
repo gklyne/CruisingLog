@@ -1,0 +1,21 @@
+{
+  "rdfs:label": "Travel time",
+  "rdfs:comment": "Cruising time in hours",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(Travel time in hours)",
+  "annal:property_uri": "ccl:travel_hours",
+  "annal:options_typeref": "",
+  "@id": "./",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:uri": "/annalist/c/CruisingLog/d/_field/Travel_hours/",
+  "annal:field_render_type": "Text",
+  "annal:url": "/annalist/c/CruisingLog/d/_field/Travel_hours/",
+  "annal:restrict_values": "",
+  "annal:id": "Travel_hours",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

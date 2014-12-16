@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Froghall",
+  "rdfs:comment": "The end of the Churnet Valley arm of the Caldon Canal.\r\n\r\nThe final section is accessed by a low-roofed tunnel, which many boats cannot pass.  The approach to Froghall from Consall Forge is by way of a remote wooded valley, also carrying the River Churnet and the Churnet Valley (steam) railway.  The traces of old industry give the place a feel of something out of Myst.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Froghall/",
+  "annal:id": "Froghall",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

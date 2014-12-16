@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Beeston canal above Nottingham",
+  "rdfs:comment": "Somewhere on the Beeston canal",
+  "annal:type_id": "Place",
+  "ccl:waterway": "River_Trent",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Beeston_canal/",
+  "annal:id": "Beeston_canal",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

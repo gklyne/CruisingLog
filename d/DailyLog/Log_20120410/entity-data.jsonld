@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "2012-Apr-10: Stone - Wedgewood/Trentham",
+  "rdfs:comment": "(No report)",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "4.5",
+  "ccl:engine_fuel": "",
+  "ccl:place_moored": "Trentham_Wedgewood",
+  "ccl:engine_hours": "",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120410/",
+  "annal:id": "Log_20120410",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

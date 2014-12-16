@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Denford (Caldon)",
+  "rdfs:comment": "A tiny village consisting of little more than a pub, just below Hazelhurst Junction on the Curnet Valley arm of the Caldon.\r\n\r\nThere are 24/48-hour(?) moorings outside the pub, and more further downstream, though it can sometimes be hard to find a good mooring here.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Denford/",
+  "annal:id": "Denford",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

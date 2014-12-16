@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Loghborough centre",
+  "rdfs:comment": "Small basin with facilities, a short walk from central Loughborough.\r\n\r\nBasic is shallow in places, and mooring pontoons are rather short.  Has water, rubbish and elsan disposal, reasonably well maintained.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "River_Soar",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Loughborough/",
+  "annal:id": "Loughborough",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

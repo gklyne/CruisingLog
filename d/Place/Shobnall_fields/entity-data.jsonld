@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Shobnall fields, Burton",
+  "rdfs:comment": "Very pleasant moorings on edge of Burton-on-Trent, about 15 minutes walk from town centre, and adjacent to playing fields.,\r\n\r\nNo facilities.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Shobnall_fields/",
+  "annal:id": "Shobnall_fields",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

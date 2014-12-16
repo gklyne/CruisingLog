@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Engine battery isolator switch",
+  "rdfs:comment": "Isolator switch replaced as suspect for overnight flattened battery\r\n\r\nSee also entry for: Tech_engine_start_switch",
+  "annal:type_id": "Maintenance",
+  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Maintenance_20111003/",
+  "annal:id": "Maintenance_20111003",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Maintenance",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,60 @@
+{
+  "annal:view_fields": [
+    {
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "Entity_id"
+    },
+    {
+      "annal:field_placement": "small:0,12;medium:6,6right",
+      "annal:field_id": "Entity_type"
+    },
+    {
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "Entity_label"
+    },
+    {
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "Cruise_segment"
+    },
+    {
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "Place_moored"
+    },
+    {
+      "annal:field_placement": "small:0,12;medium:6,6right",
+      "annal:field_id": "Travel_hours"
+    },
+    {
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "Entity_comment"
+    },
+    {
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "Engine_hours"
+    },
+    {
+      "annal:field_placement": "small:0,12;medium:6,6right",
+      "annal:field_id": "Engine_fuel"
+    },
+    {
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "Water_level"
+    },
+    {
+      "annal:field_placement": "small:0,12;medium:6,6right",
+      "annal:field_id": "Stove_fuel"
+    }
+  ],
+  "rdfs:label": "Daily log",
+  "rdfs:comment": "Summary of daily cruising activities",
+  "annal:add_field": "yes",
+  "annal:type_id": "_view",
+  "annal:record_type": "ccl:Type/DailyLog",
+  "annal:url": "/annalist/c/CruisingLog/d/_view/Dailylog_view/",
+  "annal:id": "Dailylog_view",
+  "@id": "./",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:type": "annal:View"
+}

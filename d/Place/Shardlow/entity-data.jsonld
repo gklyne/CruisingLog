@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Shardlow village",
+  "rdfs:comment": "Isolated village with chandlery and pubs.  There is a small shop about 5 mins cycle ride from the canal.\r\n\r\n[Water?]\r\n\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Shardlow/",
+  "annal:id": "Shardlow",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

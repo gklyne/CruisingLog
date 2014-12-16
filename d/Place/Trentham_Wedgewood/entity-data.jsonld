@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Wedgewood visitor centre bridge, near Trentham",
+  "rdfs:comment": "A popular rural mooring between Barlaston and Trentham.  Not much here.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Trentham_Wedgewood/",
+  "annal:id": "Trentham_Wedgewood",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

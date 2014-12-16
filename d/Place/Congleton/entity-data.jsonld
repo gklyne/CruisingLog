@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Congleton",
+  "rdfs:comment": "Modest town with decent moorings.  Town centre about 10 minutes walk from canal.\r\n\r\nStation served by Oxford-Manchester trains.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Congleton/",
+  "annal:id": "Congleton",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

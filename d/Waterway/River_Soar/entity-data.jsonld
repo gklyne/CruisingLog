@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "River Soar",
+  "rdfs:comment": "The River Soar navigation runs from Leicester to the River Trent near Trent Lock, passing through Kegworth, Zouch and Loughborough.\r\n\r\n",
+  "annal:type_id": "Waterway",
+  "annal:uri": "/annalist/c/CruisingLog/d/Waterway/River_Soar/",
+  "annal:url": "/annalist/c/CruisingLog/d/Waterway/River_Soar/",
+  "annal:id": "River_Soar",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Waterway",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

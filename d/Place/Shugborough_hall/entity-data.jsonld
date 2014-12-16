@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Shugborough Hall",
+  "rdfs:comment": "A popular National Trust estate near Great Haywood, with pleasant moorings overlooking a youthful River Trent.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Shugborough_hall/",
+  "annal:id": "Shugborough_hall",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

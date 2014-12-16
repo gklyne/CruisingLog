@@ -1,0 +1,29 @@
+{
+  "rdfs:label": "2012-Apr-17: Stone - Great Haywood - Wolsely Bridge",
+  "rdfs:comment": "Fuel check mid-run: 6.5\"\r\n\r\nRefuelled at Great Haywood marina; 87p/l\r\nBefore 6\", after 22\", amount: 93l  (hence 5.8l/inch)\r\n\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "5.5",
+  "ccl:engine_fuel": "22",
+  "ccl:place_moored": "Wolseley_bridge",
+  "ccl:engine_hours": "",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120417/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "4.5",
+      "ccl:place_departed": "Stone"
+    },
+    {
+      "ccl:travel_hours": "1.5",
+      "ccl:place_departed": "Great_Haywood"
+    }
+  ],
+  "annal:id": "Log_20120417",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

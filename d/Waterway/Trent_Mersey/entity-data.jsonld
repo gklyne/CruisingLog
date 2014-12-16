@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Trent and Mersey canal",
+  "rdfs:comment": "Runs 92+ miles from Shardlow on the Trent to Preston Brook on the Mersey.\r\n\r\nJunctions:\r\nDerwent Mount Lock with River Trent\r\nFradley Junction with with Coventry Canal\r\nGreat Haywood with Stafford and Worcester Canal\r\nEtruria with Caldon Canal\r\nHardings Wood Junction with the Macclesfield Canal\r\nMiddlewich with the Shropshire Union Middlewich Branch\r\nAnderton Lift with the River Weaver\r\n[...]\r\n\r\n",
+  "annal:type_id": "Waterway",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:uri": "/annalist/c/CruisingLog/d/Canal/Trent_Mersey/",
+  "annal:url": "/annalist/c/CruisingLog/d/Waterway/Trent_Mersey/",
+  "annal:id": "Trent_Mersey",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Waterway",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

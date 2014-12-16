@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Handsacre",
+  "rdfs:comment": "Pretty(ish) dormitory town between Fradley Junction and Rugely.\r\n\r\nClose to Armitage (home of Armitage Shanks factory) and Spode Hall.\r\n\r\nThe canal here is very windy, and needs some care to avoid crashing into oncoming boats.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Handsacre/",
+  "annal:id": "Handsacre",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

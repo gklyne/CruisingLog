@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Westport Lake",
+  "rdfs:comment": "Leisure park area on the North side of Stoke-on-Trent.  Good moorings and pleasant open space.  Quite intensively used by locals.\r\n\r\nAbout a mile from the Southern portal of the Harecastle Tunnel.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Westport_lake/",
+  "annal:id": "Westport_lake",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

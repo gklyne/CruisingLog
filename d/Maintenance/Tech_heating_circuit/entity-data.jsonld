@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Heating circuit details",
+  "rdfs:comment": "Total capacity about 12 litres\r\n\r\nHeader tank needs to be lifted when topping up and bleeding system.\r\n\r\nAir bleed points on radiators and drain point behind Bubble stove.\r\n\r\nCirculating pump below front step (alongside water pump).\r\n\r\n\r\n",
+  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_heating_circuit/",
+  "annal:type_id": "Maintenance",
+  "annal:id": "Tech_heating_circuit",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Maintenance",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,29 @@
+{
+  "rdfs:label": "2012-Jul-23: Westport Lake - Kidsgrove - Congleton",
+  "rdfs:comment": "Passage via Harecastle Tunnel\r\n\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "4.5",
+  "ccl:engine_fuel": "11\"",
+  "ccl:place_moored": "Congleton",
+  "ccl:engine_hours": "3603.7",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120723/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "2",
+      "ccl:place_departed": "Westport_lake"
+    },
+    {
+      "ccl:travel_hours": "2.5",
+      "ccl:place_departed": "Kidsgrove"
+    }
+  ],
+  "annal:id": "Log_20120723",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

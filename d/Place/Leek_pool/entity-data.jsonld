@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Leek pool",
+  "rdfs:comment": "Lovely mooring by the Leek tunnel, and overlooking a valley below.  Look out for twilight foxes on the wooded bank above the canal.\r\n\r\nMoorings here can be quite limited sometimes, so be prepared to head down the Leek arm (which is no great tragedy)",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Leek_pool/",
+  "annal:id": "Leek_pool",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

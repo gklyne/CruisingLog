@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Engine jump start with flat starter battery",
+  "rdfs:comment": "If the domestic batteries have a good charge, using a jump lead to connect the domestic +ve terminal to the engine +ve terminal is sufficient to jump start from the domestic batteries.",
+  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_engine_jump_start/",
+  "annal:type_id": "Maintenance",
+  "annal:id": "Tech_engine_jump_start",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Maintenance",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

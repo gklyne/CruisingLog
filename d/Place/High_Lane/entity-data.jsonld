@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "High Lane",
+  "rdfs:comment": "?",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/High_Lane/",
+  "annal:id": "High_Lane",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

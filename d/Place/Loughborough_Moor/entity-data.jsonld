@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Loughborough Moor",
+  "rdfs:comment": "A rural mooring on the outskirts of Loughborough.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "River_Soar",
+  "annal:uri": "/annalist/c/CruisingLog/d/Place/Loughborough_Moor/",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Loughborough_Moor/",
+  "annal:id": "Loughborough_Moor",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

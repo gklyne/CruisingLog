@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Tuppenhurst",
+  "rdfs:comment": "Rural area between Kings Bromley and Handsacre on Trent and Mersey canal",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Tuppenhurst/",
+  "annal:id": "Tuppenhurst",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

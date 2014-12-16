@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Macclesfield Canal",
+  "rdfs:comment": "A very pleasant waterway running from the Kidsgrove to Marple.\r\n\r\nKidsgrove: junction with Trent and Mersey Canal.\r\n\r\nMarple: Junction with Ashton Canal and Peak Forest Canal.\r\n\r\n",
+  "annal:type_id": "Waterway",
+  "annal:url": "/annalist/c/CruisingLog/d/Waterway/Macclesfield_canal/",
+  "annal:id": "Macclesfield_canal",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Waterway",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

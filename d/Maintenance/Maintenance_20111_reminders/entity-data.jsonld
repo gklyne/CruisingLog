@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Maintenance reminders: October 2011",
+  "rdfs:comment": "TODO:\r\n- rear deck mat\r\n- stowage for rear cover support (RepRap job - see diagram)\r\n- towel ring in bathroom\r\n- engine service\r\n- bottom blacking\r\n- fix electrics: starter battery isolation [Later: see Tech_engine_start_switch]\r\n\r\nTo bring:\r\n- sheet to cover bed\r\n- misc screws, washers, etc\r\n- misc shackles, clips\r\n- fenders (low level, fat)\r\n- rubber draft-proof strip\r\n\r\nTo investigate:\r\n- engine oil change\r\n- radio / MP3 player\r\n- source handling lines\r\n- Internet dongle + external aerial\r\n- clear tube for depth guage\r\n\r\n@@TODO: add diagram for rear cover support stowing hook\r\n\r\n",
+  "annal:type_id": "Maintenance",
+  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Maintenance_20111_reminders/",
+  "annal:id": "Maintenance_20111_reminders",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Maintenance",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

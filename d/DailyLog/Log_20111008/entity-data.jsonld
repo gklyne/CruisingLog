@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "2011-Oct-08: Beeston canal - Nottingham",
+  "rdfs:comment": "Engine started fine, having left battery connected but isolated overnight.\r\n\r\nShort run into Nottingham.\r\n\r\nLit Bubble stove.  Starts easily enough per instructions.  At low settings, provides good background heat in boat, but didn't completely dispel the chill - maybe accumulated damp? [LATER: we've learned it takes several hours to come fully up to temperature - probably needing to heat water and fabric of boat.]\r\n",
+  "ccl:water_level": "2",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "2",
+  "ccl:engine_fuel": "13",
+  "ccl:place_moored": "Nottingham",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111008/",
+  "annal:id": "Log_20111008",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": "3480.5"
+}

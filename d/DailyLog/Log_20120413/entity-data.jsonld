@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "2012-Apr-13: Denford - engine service - Froghall",
+  "rdfs:comment": "Engine service by Ian Richards at Denford, then travelled on to Froghall.",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "",
+  "ccl:engine_fuel": "",
+  "ccl:place_moored": "Froghall",
+  "ccl:engine_hours": "~3530",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120413/",
+  "annal:id": "Log_20120413",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

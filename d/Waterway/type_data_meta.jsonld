@@ -1,0 +1,11 @@
+{
+  "annal:type_id": "_entitytypedata",
+  "annal:uri": "/annalist/c/CruisingLog/d/Canal/",
+  "annal:url": "/annalist/c/CruisingLog/d/Canal/",
+  "annal:id": "Canal",
+  "@id": "./",
+  "@type": [
+    "annal:Type_Data"
+  ],
+  "annal:type": "annal:Type_Data"
+}

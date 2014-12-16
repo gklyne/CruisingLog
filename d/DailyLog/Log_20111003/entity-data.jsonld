@@ -1,0 +1,26 @@
+{
+  "rdfs:label": "2011-Oct-03: Weston to Sawley cut",
+  "rdfs:comment": "Our first full day of cruising with Urquhart Castle\r\n\r\nDelayed near Shardlow by a problem with the engine start battery - diagnosed at the time by a Shardlow-based engineer as a faulty isolator switch, but later found to be caused by leaving the ignition switch in the \"stop\" position, which left the engine stop solenoid permanently engaged, hence flattened the starter battery.  (It took us several months and three different engineers to finally figure this)\r\n\r\nAfter switch was replaced, we continued to Sawley\r\n\r\nMercia - Sawley, about 6 hours",
+  "ccl:water_level": "13.5",
+  "annal:type_id": "DailyLog",
+  "ccl:engine_fuel": "18",
+  "@id": "./",
+  "ccl:waterway": "River_Trent",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "3",
+  "ccl:place_moored": "Sawley_cut",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111003/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "3",
+      "ccl:place_departed": "Weston_cliff_wood"
+    }
+  ],
+  "annal:id": "Log_20111003",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": "3462.6"
+}
