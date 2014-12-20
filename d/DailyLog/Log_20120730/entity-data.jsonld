@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "2012-Jul-30: Westport Lake - Stoke - Stone",
+  "rdfs:comment": "Stuck behind butty on Stone flight; otherwise would have been closer to 5 hours.\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "6.25",
+  "ccl:engine_fuel": "",
+  "ccl:place_moored": "Stone",
+  "ccl:engine_hours": "3644.6",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120730/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "6.25",
+      "ccl:place_departed": "Westport_lake"
+    }
+  ],
+  "annal:id": "Log_20120730",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

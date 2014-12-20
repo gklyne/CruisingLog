@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Bleeding Wolf, nr Kidsgrove",
+  "rdfs:comment": "Pub on/near Macclesfield canal, access from Br 93.\r\n\r\nI think this was OK but a bit disappointing given the reviews we saw - a busy and popular pub on a main road, about 5-10 minutes walk from the canal.\r\n",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Bleeding_wolf/",
+  "annal:id": "Bleeding_wolf",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

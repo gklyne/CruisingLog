@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Harecastle Tunnel N portal,near Kidsgrove",
+  "rdfs:comment": "Northern portal of Harecastle Tunnel.  Expect delays at busy times.  Not much here.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Harecastle_N/",
+  "annal:id": "Harecastle_N",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

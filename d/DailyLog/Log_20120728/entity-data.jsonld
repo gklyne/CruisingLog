@@ -1,0 +1,33 @@
+{
+  "rdfs:label": "2012-Jul-28: Bollington - Gurnet - Bosely - Dane aqueduct",
+  "rdfs:comment": "",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "6.5",
+  "ccl:engine_fuel": "17.75",
+  "ccl:place_moored": "Dane_aqueduct",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120728/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "<3",
+      "ccl:place_departed": "Bollington"
+    },
+    {
+      "ccl:travel_hours": "<2",
+      "ccl:place_departed": "Gurnet_aqueduct"
+    },
+    {
+      "ccl:travel_hours": "1.75",
+      "ccl:place_departed": "Boseley_top_lock"
+    }
+  ],
+  "annal:id": "Log_20120728",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": "3631.9"
+}
