@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Discuss elctrics upgrade with Midland Canal Centre",
+  "rdfs:comment": "Discussed upgrading electrics with MCC at Stenson Marina.\r\n\r\nEstimate usage:\r\n\r\nFridge: 4A\r\nLights: 1A\r\nCH Pump: 1A\r\nComputers 5-8A while charging, about 6h/day\r\n\r\nEstimate average consumption 8A / 100W; 200Ah/day (estimated)\r\n=> 4 hours to recharge @ 50A\r\n\r\n(Later: these figures are actually very high - with a battery monitor in place, we see consumption running about 50-75Ah/day, which is significantly offset by solar panels for a typical daily deficit of about 25-50Ah~)\r\n\r\nUpgrade prices:\r\nBattery monitor: \u00a3120-150 fitted\r\nGalvanic isolator: \u00a3120\r\nUpgrade alternator (70/90A) - need to check what the engine/pulley can drive.  Need to be careful about over-stressing engine bearing with side-force.\r\n\r\nAsked bout terminal block for electrics, but not much joy.\r\n",
+  "annal:type_id": "Maintenance",
+  "ccl:place_moored": "",
+  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_electrics_planning/",
+  "annal:id": "Tech_electrics_planning",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Maintenance",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,29 @@
+{
+  "rdfs:label": "2012-Aug-01: Tixall wide - Rugeley - Fradley Junction",
+  "rdfs:comment": "\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "5.5",
+  "ccl:engine_fuel": "12",
+  "ccl:place_moored": "Fradley_junction",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120801/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "2.75",
+      "ccl:place_departed": "Tixall_wide"
+    },
+    {
+      "ccl:travel_hours": "2.75",
+      "ccl:place_departed": "Rugely"
+    }
+  ],
+  "annal:id": "Log_20120801",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": "3655.2"
+}

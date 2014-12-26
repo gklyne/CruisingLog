@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "2012-Aug-03: Shobnall - Mercia",
+  "rdfs:comment": "",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "2.5",
+  "ccl:engine_fuel": "10",
+  "ccl:place_moored": "Mercia_marina",
+  "ccl:engine_hours": "3662.8",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120803/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "2.5",
+      "ccl:place_departed": "Shobnall_fields"
+    }
+  ],
+  "annal:id": "Log_20120803",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

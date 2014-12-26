@@ -1,0 +1,33 @@
+{
+  "rdfs:label": "2012-Aug-02: Fradley Junction - Alrewas - Branston - Shobnall",
+  "rdfs:comment": "",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "5",
+  "ccl:engine_fuel": "10.5",
+  "ccl:place_moored": "Shobnall_fields",
+  "ccl:engine_hours": "3660.2",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120802/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "1.5",
+      "ccl:place_departed": "Fradley_junction"
+    },
+    {
+      "ccl:travel_hours": "2.5",
+      "ccl:place_departed": "Alrewas"
+    },
+    {
+      "ccl:travel_hours": "1",
+      "ccl:place_departed": "Branston_water_park"
+    }
+  ],
+  "annal:id": "Log_20120802",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}
