@@ -1,13 +1,13 @@
 {
   "rdfs:label": "2012-Oct-08 - 19: Mercia - maintenance",
-  "rdfs:comment": "Stayed on boat in Mercia Marina, using Bubble stove each day for about 16 hours.\r\n\r\nFitted new water pump\r\nFit new Jabsco(?) circulating pump.\r\nFit expansion tank for hot water (radiator) circuit - [Renault Clio?] part salvaged from breakers yard near Derby.\r\nSpoke again with MCC about electrical work, but no more heard.\r\nTopped up fuel.\r\nWinterized.\r\n\r\n----\r\n\r\nNOTE: the expansion tank in the hot water circuit is *below* the highest point in the circuit.  Therefore it must be unclipped and lifted when filling/bleeding the circuit.  Also, if there is an air leak, water level in the header tank *rises* and may overflow - hence overflow pipe from header to separate container under the rear step.\r\n\r\nThe expansion tank is held on by a rubber strap, which may be unclipped to lift the tank.  Stand it on the hatch door ledge to bring it above other points in the circuit.  Overflow into 5 liter container ensures any loss due to air leak is captured.\r\n\r\n----\r\n\r\nEngine/fued figures at 19 Oct 2012.\r\n\r\nRefuelled: main tank 66.85 litres, stove 45.46 litres; both to full.",
+  "rdfs:comment": "Stayed on boat in Mercia Marina, using Bubble stove each day for about 16 hours.\r\n\r\nFitted new water pump\r\nFit new Jabsco(?) circulating pump.\r\nFit expansion tank for hot water (radiator) circuit - [Renault Clio?] header tank and bracket salvaged from breakers yard near Derby.\r\nSpoke again with MCC about electrical work, but no more heard.\r\nTopped up fuel.\r\nWinterized.\r\n\r\nEngine/fuel figures at 19 Oct 2012.\r\nRefuelled: main tank 66.85 litres, stove 45.46 litres; both to full.\r\n",
   "ccl:water_level": "",
   "ccl:stove_fuel": "20",
   "annal:type_id": "DailyLog",
   "ccl:travel_hours": "0",
   "ccl:engine_fuel": "21",
   "ccl:place_moored": "Mercia_marina",
-  "annal:type": "annal:EntityData",
+  "ccl:engine_hours": "3663",
   "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20121008_19/",
   "ccl:cruise_segments": [],
   "annal:id": "Log_20121008_19",
@@ -16,5 +16,5 @@
     "ccl:Type/DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3663"
+  "annal:type": "annal:EntityData"
 }
