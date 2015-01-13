@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "2013-Apr-25: Tixall Wide - Stone",
+  "rdfs:comment": "24 hours after mooring, 40Ah consumed.  12.5V @ 3.25A load.\r\nBy evening: 35Ah.\r\nMy morning: (no reading - est 60Ah), 10.6V @ 0A load\r\n=> looks like battery is dying?\r\n\r\nStoke batteries 01782 324178\r\n6110: 330x173x240mm, \u00a399.95 ea.\r\n679: 345x175x230mm \"layout 1\" [+ -] looking from terminal side\r\n",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "5",
+  "ccl:engine_fuel": "15.5",
+  "ccl:place_moored": "Stone",
+  "ccl:engine_hours": "3688.5",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130425/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "5",
+      "ccl:place_departed": "Tixall_wide"
+    }
+  ],
+  "annal:id": "Log_20130425",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

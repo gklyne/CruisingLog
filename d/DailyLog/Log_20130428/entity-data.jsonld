@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "2013-Apr-28: Etruria - Birches Head",
+  "rdfs:comment": "Set out with ~ -37Ah battery charge.\r\n2 hour trip was not enough to completely recharge the batteries, but 2.5hours did finish the job (apparently the battery monitor was set to wrong Ah - see 30 Apr log)",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "2.5",
+  "ccl:engine_fuel": "13.5",
+  "ccl:place_moored": "Birches_head",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130428/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "2.5",
+      "ccl:place_departed": "Etruria"
+    }
+  ],
+  "annal:id": "Log_20130428",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": "3697.5"
+}

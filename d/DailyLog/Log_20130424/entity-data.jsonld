@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "2013-Apr-24: Trent Aqueduct - Tixall Wide",
+  "rdfs:comment": "Overnight elec used ~60Av.  Battery voltage >11V\r\n(Ran inverter several hours to recharge computer; ~5.8A for inverter on load, 1A quiescent.",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "3",
+  "ccl:engine_fuel": "17",
+  "ccl:place_moored": "Tixall_wide",
+  "ccl:engine_hours": "3683.5",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130424/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "3",
+      "ccl:place_departed": "Trent_aqueduct"
+    }
+  ],
+  "annal:id": "Log_20130424",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

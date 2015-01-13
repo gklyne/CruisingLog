@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Stenson Marina",
+  "rdfs:comment": "Stenson Marina and Midland Canal Centre.  An old style marina with boat-builder, services and chandlery.  Beside Stenson Lock.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:uri": "",
+  "annal:url": "/annalist/c/CruisingLog/d/_type/stenson_marina/",
+  "annal:type_list": "Default_list",
+  "annal:id": "stenson_marina",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "Default_view"
+}

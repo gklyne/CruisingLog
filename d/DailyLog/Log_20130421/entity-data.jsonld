@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "2013-Apr-21: Stenson - Burton",
+  "rdfs:comment": "Picked up boat from Stenson Marina following work to (a) fit battery monitor, (b) fit solar charge manager, (c) uprate alternator (to 70A), (d ) fit galvanic isolator.\r\n\r\nImmediate result from solar charge, on a sunny spring day: battery charge about 40W from a single 100W (nominal) solar panel.",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "14.5",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "3.5",
+  "ccl:engine_fuel": "20",
+  "ccl:place_moored": "Shobnall_fields",
+  "ccl:engine_hours": "3670",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130421/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "3.5",
+      "ccl:place_departed": "Stenson_marina"
+    }
+  ],
+  "annal:id": "Log_20130421",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

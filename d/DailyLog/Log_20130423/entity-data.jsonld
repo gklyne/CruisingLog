@@ -1,0 +1,33 @@
+{
+  "rdfs:label": "2013-Apr-23: Alrewas - Fradley J - Rugely - Trent Aqueduct",
+  "rdfs:comment": "Peak solar:  50W flat on roof; 60W tilted.",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "4.5",
+  "ccl:engine_fuel": "17.5",
+  "ccl:place_moored": "Trent_aqueduct",
+  "ccl:engine_hours": "3681",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130423/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "1.25",
+      "ccl:place_departed": "Alrewas"
+    },
+    {
+      "ccl:travel_hours": "3.5 (?)",
+      "ccl:place_departed": "Fradley_junction"
+    },
+    {
+      "ccl:travel_hours": "0.5",
+      "ccl:place_departed": "Rugely"
+    }
+  ],
+  "annal:id": "Log_20130423",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}
