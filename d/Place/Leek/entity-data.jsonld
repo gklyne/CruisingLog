@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Leek (town)",
+  "rdfs:comment": "End of Leek arm of Caldon Canal.\r\n\r\nMoorings a bit scrappy, and shallow towards end of arm.",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "annal:url": "/annalist/c/CruisingLog/d/Place/Leek/",
+  "annal:id": "Leek",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/Place",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}
