@@ -1,0 +1,27 @@
+{
+  "rdfs:label": "2013-May-07: Leek Pool - Leek - Hazelhurst Junction",
+  "rdfs:comment": "Visit Leek town.",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "2",
+  "ccl:engine_fuel": "",
+  "ccl:place_moored": "Hazelhurst_junction",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130507/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Leek_pool"
+    },
+    {
+      "ccl:place_departed": "Leek"
+    }
+  ],
+  "annal:id": "Log_20130507",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": ""
+}

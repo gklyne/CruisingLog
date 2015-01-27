@@ -1,0 +1,29 @@
+{
+  "rdfs:label": "2013-May-16: Fradley - Alrewas - Burton",
+  "rdfs:comment": "",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "4.5",
+  "ccl:engine_fuel": "18.5",
+  "ccl:place_moored": "Shobnall_fields",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130516/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "1.5",
+      "ccl:place_departed": "Fradley_services"
+    },
+    {
+      "ccl:travel_hours": "3",
+      "ccl:place_departed": "Alrewas"
+    }
+  ],
+  "annal:id": "Log_20130516",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": "3744.3"
+}

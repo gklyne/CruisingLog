@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "2013-May-12: Etruria - Stone",
+  "rdfs:comment": "Battery change at 25/30A in normal cruising, with inverter running to charge computers.",
+  "ccl:water_level": "",
+  "ccl:stove_fuel": "",
+  "annal:type_id": "DailyLog",
+  "ccl:travel_hours": "5.5",
+  "ccl:engine_fuel": "6.5",
+  "ccl:place_moored": "Stone",
+  "annal:type": "annal:EntityData",
+  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130512/",
+  "ccl:cruise_segments": [
+    {
+      "ccl:travel_hours": "5.5",
+      "ccl:place_departed": "Etruria"
+    }
+  ],
+  "annal:id": "Log_20130512",
+  "@id": "./",
+  "@type": [
+    "ccl:Type/DailyLog",
+    "annal:EntityData"
+  ],
+  "ccl:engine_hours": "3729.2"
+}
