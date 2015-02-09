@@ -1,9 +1,10 @@
 {
   "rdfs:label": "Mercia marina",
-  "rdfs:comment": "Home for us!\r\n\r\nBig chandlery (Midland), all facilities.  About 0.5 hour cruise from Willington village, which has shops, water, elsan, winding hole.",
+  "rdfs:comment": "Big chandlery (Midland), all facilities.  About half hour cruise from Willington village, which has shops, water, elsan, winding hole.",
   "annal:type_id": "Place",
   "ccl:waterway": "Trent_Mersey",
   "annal:url": "/annalist/c/CruisingLog/d/Place/Mercia_marina/",
+  "ccl:picture": "http://luggage.atuin.ninebynine.org/pic/2013/20130907-Mercia/20130907-1713-099.jpg",
   "annal:id": "Mercia_marina",
   "@id": "./",
   "@type": [
