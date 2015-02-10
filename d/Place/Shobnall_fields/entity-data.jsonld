@@ -4,6 +4,12 @@
   "annal:type_id": "Place",
   "ccl:waterway": "Trent_Mersey",
   "annal:url": "/annalist/c/CruisingLog/d/Place/Shobnall_fields/",
+  "ccl:pictures": [
+    {
+      "ccl:picture": "https://farm8.staticflickr.com/7331/15873246583_052e8b59d1_z_d.jpg",
+      "ccl:annotation": "Daffodils at Shobnall Fields in spring."
+    }
+  ],
   "annal:id": "Shobnall_fields",
   "@id": "./",
   "@type": [
