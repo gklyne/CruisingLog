@@ -18,7 +18,7 @@
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "Cruise_segment"
+      "annal:field_id": "AnnotatedPictures"
     },
     {
       "annal:property_uri": "",
@@ -33,7 +33,7 @@
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "Entity_comment"
+      "annal:field_id": "DailyLog_notes"
     },
     {
       "annal:property_uri": "",
@@ -63,14 +63,15 @@
   ],
   "rdfs:label": "Daily log",
   "rdfs:comment": "Summary of daily cruising activities",
-  "annal:id": "Dailylog_view",
-  "annal:type_id": "_view",
-  "annal:record_type": "ccl:Type/DailyLog",
-  "annal:url": "/annalist/c/CruisingLog/d/_view/Dailylog_view/",
   "annal:add_field": true,
+  "annal:type_id": "_view",
+  "annal:record_type": "ccl:DailyLog",
+  "annal:url": "/annalist/c/CruisingLog/d/_view/Dailylog_view/",
+  "annal:id": "Dailylog_view",
   "@id": "./",
   "@type": [
     "annal:View"
   ],
-  "annal:type": "annal:View"
+  "annal:type": "annal:View",
+  "annal:edit_view": true
 }
