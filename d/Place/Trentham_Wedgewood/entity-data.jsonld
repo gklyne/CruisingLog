@@ -7,7 +7,7 @@
   "annal:id": "Trentham_Wedgewood",
   "@id": "./",
   "@type": [
-    "ccl:Type/Place",
+    "ccl:Place",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

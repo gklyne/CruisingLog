@@ -7,7 +7,7 @@
   "annal:id": "Leek_pool",
   "@id": "./",
   "@type": [
-    "ccl:Type/Place",
+    "ccl:Place",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

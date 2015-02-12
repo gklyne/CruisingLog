@@ -14,7 +14,7 @@
   "annal:id": "Mercia_marina",
   "@id": "./",
   "@type": [
-    "ccl:Type/Place",
+    "ccl:Place",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

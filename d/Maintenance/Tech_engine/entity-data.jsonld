@@ -7,7 +7,7 @@
   "annal:id": "Tech_engine",
   "@id": "./",
   "@type": [
-    "ccl:Type/Maintenance",
+    "ccl:Maintenance",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

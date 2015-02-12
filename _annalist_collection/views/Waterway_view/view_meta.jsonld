@@ -13,19 +13,20 @@
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "Entity_comment"
+      "annal:field_id": "Waterway_notes"
     }
   ],
   "rdfs:label": "Waterway description",
   "rdfs:comment": "Description of canal, river or other waterway",
-  "annal:add_field": true,
-  "annal:type_id": "_view",
-  "annal:record_type": "ccl:Type/Waterway",
-  "annal:url": "/annalist/c/CruisingLog/d/_view/Waterway_view/",
   "annal:id": "Waterway_view",
+  "annal:type_id": "_view",
+  "annal:record_type": "ccl:Waterway",
+  "annal:url": "/annalist/c/CruisingLog/d/_view/Waterway_view/",
+  "annal:add_field": true,
   "@id": "./",
   "@type": [
     "annal:View"
   ],
-  "annal:type": "annal:View"
+  "annal:type": "annal:View",
+  "annal:edit_view": true
 }

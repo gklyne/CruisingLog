@@ -6,7 +6,7 @@
   "annal:id": "Maintenance_20120413",
   "@id": "./",
   "@type": [
-    "ccl:Type/Maintenance",
+    "ccl:Maintenance",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

@@ -4,11 +4,11 @@
   "annal:type_id": "Place",
   "ccl:waterway": "Trent_Mersey",
   "annal:url": "/annalist/c/CruisingLog/d/Place/Weston_cliff_wood/",
-  "ccl:pictures": [],
+  "ccl:pictures": "",
   "annal:id": "Weston_cliff_wood",
   "@id": "./",
   "@type": [
-    "ccl:Type/Place",
+    "ccl:Place",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

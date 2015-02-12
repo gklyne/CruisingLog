@@ -6,7 +6,7 @@
   "annal:id": "Tech_hot_water_tank",
   "@id": "./",
   "@type": [
-    "ccl:Type/Maintenance",
+    "ccl:Maintenance",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

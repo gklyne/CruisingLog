@@ -6,7 +6,7 @@
   "annal:id": "Peak_Forest",
   "@id": "./",
   "@type": [
-    "ccl:Type/Waterway",
+    "ccl:Waterway",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

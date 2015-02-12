@@ -3,9 +3,9 @@
   "rdfs:comment": "List of waterways",
   "annal:default_view": "Waterway_view",
   "annal:default_type": "Waterway",
-  "annal:record_type": "ccl:Type/Waterway",
+  "annal:record_type": "ccl:Waterway",
   "annal:type_id": "_list",
-  "annal:list_entity_selector": "ccl:Type/Waterway in [@type]",
+  "annal:list_entity_selector": "ccl:Waterway in [@type]",
   "annal:display_type": "List",
   "annal:list_fields": [
     {

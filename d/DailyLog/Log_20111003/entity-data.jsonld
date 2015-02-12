@@ -19,7 +19,7 @@
   ],
   "annal:id": "Log_20111003",
   "@type": [
-    "ccl:Type/DailyLog",
+    "ccl:DailyLog",
     "annal:EntityData"
   ],
   "ccl:engine_hours": "3462.6"

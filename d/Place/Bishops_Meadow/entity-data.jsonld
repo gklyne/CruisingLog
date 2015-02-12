@@ -8,7 +8,7 @@
   "annal:id": "Bishops_Meadow",
   "@id": "./",
   "@type": [
-    "ccl:Type/Place",
+    "ccl:Place",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

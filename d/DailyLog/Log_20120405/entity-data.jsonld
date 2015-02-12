@@ -12,7 +12,7 @@
   "annal:id": "Log_20120405",
   "@id": "./",
   "@type": [
-    "ccl:Type/DailyLog",
+    "ccl:DailyLog",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

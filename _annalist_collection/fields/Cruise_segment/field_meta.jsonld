@@ -6,7 +6,7 @@
   "annal:placeholder": "(cruise segments)",
   "annal:property_uri": "ccl:cruise_segments",
   "annal:options_typeref": "",
-  "annal:field_entity_type": "ccl:Type/DailyLog",
+  "annal:field_entity_type": "ccl:DailyLog",
   "@id": "./",
   "annal:repeat_label_delete": "Remove cruise segment",
   "annal:field_placement": "small:0,12",

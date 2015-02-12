@@ -3,9 +3,9 @@
   "rdfs:comment": "List of daily cruising log entries",
   "annal:default_view": "Dailylog_view",
   "annal:default_type": "DailyLog",
-  "annal:record_type": "ccl:Type/DailyLog",
+  "annal:record_type": "ccl:DailyLog",
   "annal:type_id": "_list",
-  "annal:list_entity_selector": "ccl:Type/DailyLog in [@type]",
+  "annal:list_entity_selector": "ccl:DailyLog in [@type]",
   "annal:display_type": "List",
   "annal:list_fields": [
     {

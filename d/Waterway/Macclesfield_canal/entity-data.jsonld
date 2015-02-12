@@ -6,7 +6,7 @@
   "annal:id": "Macclesfield_canal",
   "@id": "./",
   "@type": [
-    "ccl:Type/Waterway",
+    "ccl:Waterway",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

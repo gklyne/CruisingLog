@@ -5,8 +5,8 @@
   "annal:default_view": "Maintenance_view",
   "annal:default_type": "Maintenance",
   "annal:type_id": "_list",
-  "annal:list_entity_selector": "ccl:Type/Maintenance in [@type]",
-  "annal:record_type": "ccl:Type/Maintenance",
+  "annal:list_entity_selector": "ccl:Maintenance in [@type]",
+  "annal:record_type": "ccl:Maintenance",
   "annal:list_fields": [
     {
       "annal:field_placement": "small:0,3",

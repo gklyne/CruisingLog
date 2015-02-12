@@ -38,7 +38,7 @@
   "annal:id": "Log_20130515",
   "@id": "./",
   "@type": [
-    "ccl:Type/DailyLog",
+    "ccl:DailyLog",
     "annal:EntityData"
   ],
   "ccl:engine_hours": "3739.7"

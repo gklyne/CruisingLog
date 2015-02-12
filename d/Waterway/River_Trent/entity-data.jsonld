@@ -7,7 +7,7 @@
   "annal:id": "River_Trent",
   "@id": "./",
   "@type": [
-    "ccl:Type/Waterway",
+    "ccl:Waterway",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

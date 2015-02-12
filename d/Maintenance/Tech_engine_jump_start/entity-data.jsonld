@@ -6,7 +6,7 @@
   "annal:id": "Tech_engine_jump_start",
   "@id": "./",
   "@type": [
-    "ccl:Type/Maintenance",
+    "ccl:Maintenance",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

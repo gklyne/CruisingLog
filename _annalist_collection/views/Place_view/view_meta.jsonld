@@ -18,7 +18,7 @@
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "Entity_comment"
+      "annal:field_id": "Place_notes"
     },
     {
       "annal:property_uri": "ccl:pictures",
@@ -30,12 +30,13 @@
   "rdfs:comment": "Description of  a place on or near a canal",
   "annal:add_field": true,
   "annal:type_id": "_view",
-  "annal:record_type": "ccl:Type/Place",
+  "annal:record_type": "ccl:Place",
   "annal:url": "/annalist/c/CruisingLog/d/_view/Place_view/",
   "annal:id": "Place_view",
   "@id": "./",
   "@type": [
     "annal:View"
   ],
-  "annal:type": "annal:View"
+  "annal:type": "annal:View",
+  "annal:edit_view": true
 }

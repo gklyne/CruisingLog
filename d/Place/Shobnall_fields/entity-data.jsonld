@@ -13,7 +13,7 @@
   "annal:id": "Shobnall_fields",
   "@id": "./",
   "@type": [
-    "ccl:Type/Place",
+    "ccl:Place",
     "annal:EntityData"
   ],
   "annal:type": "annal:EntityData"

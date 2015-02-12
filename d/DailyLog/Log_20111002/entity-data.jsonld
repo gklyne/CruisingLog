@@ -13,7 +13,7 @@
   "ccl:travel_hours": "3",
   "ccl:stove_duel": "",
   "ccl:place_moored": "Weston_cliff_wood",
-  "annal:type": "annal:EntityData",
+  "ccl:engine_hours": "",
   "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111002/",
   "ccl:cruise_segments": [
     {
@@ -23,8 +23,8 @@
   ],
   "annal:id": "Log_20111002",
   "@type": [
-    "ccl:Type/DailyLog",
+    "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": ""
+  "annal:type": "annal:EntityData"
 }

@@ -2,7 +2,7 @@
   "rdfs:label": "Place",
   "rdfs:comment": "Description of a place on or near a canal",
   "annal:type_id": "_type",
-  "annal:uri": "ccl:Type/Place",
+  "annal:uri": "ccl:Place",
   "annal:url": "/annalist/c/CruisingLog/d/_type/Place/",
   "annal:type_list": "Place_list",
   "annal:id": "Place",

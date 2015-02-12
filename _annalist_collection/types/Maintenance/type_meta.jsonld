@@ -2,7 +2,7 @@
   "rdfs:label": "Maintenance notes",
   "rdfs:comment": "Notes about boat maintenance activities and details",
   "annal:type_id": "_type",
-  "annal:uri": "ccl:Type/Maintenance",
+  "annal:uri": "ccl:Maintenance",
   "annal:url": "/annalist/c/CruisingLog/d/_type/Maintenance/",
   "annal:type_list": "Maintenance_list",
   "annal:id": "Maintenance",
