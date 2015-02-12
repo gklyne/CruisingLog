@@ -8,15 +8,15 @@
   "annal:options_typeref": "",
   "annal:field_entity_type": "",
   "@id": "./",
-  "annal:repeat_label_delete": "Remove picture",
+  "annal:repeat_label_delete": "Remove selected picture",
   "annal:field_placement": "small:0,12;medium:0,6",
   "annal:repeat_label_add": "Add picture",
   "annal:default_value": "",
   "annal:field_value_type": "annal:Field_group",
   "annal:field_render_type": "RepeatGroupRow",
-  "annal:url": "/annalist/c/CruisingLog/d/_field/AnnotatedPictures/",
+  "annal:url": "/annalist/c/CruisingLog/d/_field/AnnotatedPictures_2/",
   "annal:restrict_values": "",
-  "annal:id": "AnnotatedPictures",
+  "annal:id": "AnnotatedPictures_2",
   "@type": [
     "annal:Field"
   ],

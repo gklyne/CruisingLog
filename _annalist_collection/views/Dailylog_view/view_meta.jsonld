@@ -54,6 +54,11 @@
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12;medium:6,6right",
       "annal:field_id": "Stove_fuel"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "AnnotatedPictures"
     }
   ],
   "rdfs:label": "Daily log",

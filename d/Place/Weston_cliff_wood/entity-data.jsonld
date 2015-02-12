@@ -3,8 +3,8 @@
   "rdfs:comment": "Weston cliff, between Swarkestone and Weston locks, where the canal runs beside the River Trent for a short while.",
   "annal:type_id": "Place",
   "ccl:waterway": "Trent_Mersey",
-  "annal:uri": "/annalist/c/CruisingLog/d/Place/Weston_cliff_wood/",
   "annal:url": "/annalist/c/CruisingLog/d/Place/Weston_cliff_wood/",
+  "ccl:pictures": [],
   "annal:id": "Weston_cliff_wood",
   "@id": "./",
   "@type": [

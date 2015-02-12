@@ -28,11 +28,11 @@
   ],
   "rdfs:label": "Place description",
   "rdfs:comment": "Description of  a place on or near a canal",
-  "annal:id": "Place_view",
+  "annal:add_field": true,
   "annal:type_id": "_view",
   "annal:record_type": "ccl:Type/Place",
   "annal:url": "/annalist/c/CruisingLog/d/_view/Place_view/",
-  "annal:add_field": true,
+  "annal:id": "Place_view",
   "@id": "./",
   "@type": [
     "annal:View"
