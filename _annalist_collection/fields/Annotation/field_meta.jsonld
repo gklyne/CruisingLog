@@ -13,7 +13,7 @@
   "annal:repeat_label_add": "",
   "annal:default_value": "",
   "annal:field_value_type": "annal:Longtext",
-  "annal:field_render_type": "Textarea",
+  "annal:field_render_type": "Markdown",
   "annal:url": "/annalist/c/CruisingLog/d/_field/Annotation/",
   "annal:restrict_values": "",
   "annal:id": "Annotation",
