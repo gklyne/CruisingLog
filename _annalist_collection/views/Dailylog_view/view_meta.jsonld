@@ -3,26 +3,6 @@
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12;medium:0,6",
-      "annal:field_id": "Entity_id"
-    },
-    {
-      "annal:property_uri": "",
-      "annal:field_placement": "small:0,12;medium:6,6right",
-      "annal:field_id": "Entity_type"
-    },
-    {
-      "annal:property_uri": "",
-      "annal:field_placement": "small:0,12",
-      "annal:field_id": "Entity_label"
-    },
-    {
-      "annal:property_uri": "",
-      "annal:field_placement": "small:0,12",
-      "annal:field_id": "Cruise_segment"
-    },
-    {
-      "annal:property_uri": "",
-      "annal:field_placement": "small:0,12;medium:0,6",
       "annal:field_id": "Place_moored"
     },
     {
@@ -63,9 +43,10 @@
   ],
   "rdfs:label": "Daily log",
   "rdfs:comment": "Summary of daily cruising activities",
-  "annal:id": "Dailylog_view",
+  "annal:open_view": true,
   "annal:type_id": "_view",
   "annal:record_type": "ccl:DailyLog",
+  "annal:id": "Dailylog_view",
   "annal:url": "/annalist/c/CruisingLog/d/_view/Dailylog_view/",
   "annal:add_field": true,
   "@id": "./",
