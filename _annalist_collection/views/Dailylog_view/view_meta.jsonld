@@ -1,9 +1,9 @@
 {
   "annal:view_fields": [
     {
-     "annal:property_uri": "",
-     "annal:field_placement": "small:0,12;medium:0,6",
-     "annal:field_id": "Entity_id"
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "Entity_id"
     },
     {
       "annal:property_uri": "",
@@ -11,7 +11,7 @@
       "annal:field_id": "Entity_type"
     },
     {
-       "annal:property_uri": "",
+      "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
       "annal:field_id": "Entity_label"
     },
@@ -65,14 +65,13 @@
   "rdfs:comment": "Summary of daily cruising activities",
   "annal:open_view": true,
   "annal:type_id": "_view",
+  "annal:edit_view": true,
   "annal:record_type": "ccl:DailyLog",
   "annal:id": "Dailylog_view",
-  "annal:url": "/annalist/c/CruisingLog/d/_view/Dailylog_view/",
-  "annal:add_field": true,
   "@id": "./",
   "@type": [
     "annal:View"
   ],
   "annal:type": "annal:View",
-  "annal:edit_view": true
+  "annal:add_field": true
 }

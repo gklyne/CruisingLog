@@ -9,8 +9,7 @@
   "ccl:stove_fuel": "18",
   "ccl:travel_hours": "3",
   "ccl:place_moored": "Shobnall_fields",
-  "ccl:engine_hours": "3492.6+",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120405/",
+  "annal:type": "annal:EntityData",
   "ccl:cruise_segments": [
     {
       "ccl:travel_hours": "3",
@@ -22,5 +21,5 @@
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "ccl:engine_hours": "3492.6+"
 }
