@@ -4,13 +4,26 @@
   "ccl:water_level": "13.5",
   "annal:type_id": "DailyLog",
   "ccl:engine_fuel": "18",
+  "ccl:pictures": [
+    {
+      "ccl:picture": "river_trent_1"
+    },
+    {
+      "ccl:picture": "river_trent_2"
+    },
+    {
+      "ccl:picture": "sawley_cut_1"
+    },
+    {
+      "ccl:picture": "sawley_cut_2"
+    }
+  ],
   "@id": "./",
   "ccl:waterway": "River_Trent",
   "ccl:stove_fuel": "",
   "ccl:travel_hours": "3",
   "ccl:place_moored": "Sawley_cut",
   "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111003/",
   "ccl:cruise_segments": [
     {
       "ccl:travel_hours": "3",

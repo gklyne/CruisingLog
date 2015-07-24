@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Kegworth weir",
+  "rdfs:comment": "Weir at Kegworth. The location is strangely isolated from Kegworth village itself.",
+  "annal:type_id": "Picture",
+  "annal:id": "kegworth_1",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_size": 4539996,
+    "uploaded_file": "20111004-1541-239.jpg",
+    "resource_type": "image/jpeg"
+  }
+}

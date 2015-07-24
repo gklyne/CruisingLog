@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Weston Cliff Woods",
+  "rdfs:comment": "",
+  "annal:type_id": "Picture",
+  "annal:id": "weston_cliff_woods_2",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_size": 2535278,
+    "uploaded_file": "20111003-0721-219.jpg",
+    "resource_type": "image/jpeg"
+  }
+}

@@ -8,6 +8,9 @@
   "ccl:pictures": [
     {
       "ccl:picture": "weston_cliff_woods_1"
+    },
+    {
+      "ccl:picture": "weston_cliff_woods_2"
     }
   ],
   "@id": "./",

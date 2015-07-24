@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Sawley cut approach from upstream",
+  "rdfs:comment": "The lock here is used only when the river is in flood.",
+  "annal:type_id": "Picture",
+  "annal:id": "sawley_cut_1",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_size": 2023976,
+    "uploaded_file": "20111004-1252-227.jpg",
+    "resource_type": "image/jpeg"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "River Trent above Sawley",
+  "rdfs:comment": "Water main and M1 crossing over the River Trent",
+  "annal:type_id": "Picture",
+  "annal:id": "river_trent_2",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "uploaded_size": 2048509,
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_file": "20111004-1243-224.jpg",
+    "resource_type": "image/jpeg"
+  }
+}

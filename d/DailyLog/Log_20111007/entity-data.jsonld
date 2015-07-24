@@ -1,16 +1,21 @@
 {
   "rdfs:label": "2011-Oct-07: Loughborough - Beeston Canal",
-  "rdfs:comment": "(7 hours travel time includes stop for lunch)\r\n\r\nHaving left started battery disconnected overnight, engine started fine in the morning using started battery alone.  Voltage measurements between battery and disconnected lead suggest battery isolator switch does disconnect the battery.  At end of day, seeing 14V at battery with engine at low revs - suggests alternator is not a problem (but overnight drain is).\r\n\r\nOn stopping, turned isolator off but left battery connected ... fingers crossed.\r\n\r\n\r\n\r\n",
+  "rdfs:comment": "Travelled down the Soar, through Cranfield Cut and down the River Trent to the Beeston Canal, which in turn leads to Nottingham.\r\n\r\n(7 hours travel time includes stop for lunch)\r\n\r\nHaving left started battery disconnected overnight, engine started fine in the morning using started battery alone.  Voltage measurements between battery and disconnected lead suggest battery isolator switch does disconnect the battery.  At end of day, seeing 14V at battery with engine at low revs - suggests alternator is not a problem (but overnight drain is).\r\n\r\nOn stopping, turned isolator off but left battery connected ... fingers crossed.\r\n\r\n\r\n\r\n",
   "ccl:water_level": "4",
-  "ccl:stove_fuel": "",
   "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "7",
   "ccl:engine_fuel": "13.5",
+  "ccl:pictures": [
+    {
+      "ccl:picture": "river_trent_3"
+    }
+  ],
+  "@id": "./",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "7",
   "ccl:place_moored": "Beeston_canal",
   "ccl:engine_hours": "3478.7",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111007/",
+  "ccl:cruise_segments": [],
   "annal:id": "Log_20111007",
-  "@id": "./",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"

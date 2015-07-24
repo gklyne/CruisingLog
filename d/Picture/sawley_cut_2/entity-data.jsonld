@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Sawley Cut marina",
+  "rdfs:comment": "There is a large marina here.  Ratcliffe-on-Soar power station is in the background.",
+  "annal:type_id": "Picture",
+  "annal:id": "sawley_cut_2",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "uploaded_size": 1696990,
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_file": "20111004-1255-229.jpg",
+    "resource_type": "image/jpeg"
+  }
+}

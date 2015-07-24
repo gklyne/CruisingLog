@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Mercia Marina autumn morning",
+  "rdfs:comment": "Mercia Marina autumn morning",
+  "annal:type_id": "Picture",
+  "annal:id": "mercia_1",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "uploaded_size": 3344306,
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_file": "20111015-0735-024.jpg",
+    "resource_type": "image/jpeg"
+  }
+}

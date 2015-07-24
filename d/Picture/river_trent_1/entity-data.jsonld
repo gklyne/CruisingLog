@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "River Trent near Shardlow",
+  "rdfs:comment": "This is close to the upper navigable limit of the River Trent",
+  "annal:type_id": "Picture",
+  "annal:id": "river_trent_1",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_size": 1707267,
+    "uploaded_file": "20111004-1241-221.jpg",
+    "resource_type": "image/jpeg"
+  }
+}
