@@ -5,7 +5,11 @@
   "ccl:water_level": "",
   "annal:type_id": "DailyLog",
   "ccl:engine_fuel": "",
-  "ccl:pictures": [],
+  "ccl:pictures": [
+    {
+      "ccl:picture": "weston_cliff_woods_1"
+    }
+  ],
   "@id": "./",
   "ccl:waterway": "River_Trent",
   "ccl:stove_fuel": "",
@@ -14,7 +18,6 @@
   "ccl:stove_duel": "",
   "ccl:place_moored": "Weston_cliff_wood",
   "ccl:engine_hours": "",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111002/",
   "ccl:cruise_segments": [
     {
       "ccl:travel_hours": "3",

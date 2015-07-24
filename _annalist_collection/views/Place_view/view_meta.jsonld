@@ -21,22 +21,22 @@
       "annal:field_id": "Place_notes"
     },
     {
-      "annal:property_uri": "ccl:pictures",
-      "annal:field_placement": "small:0,12;medium:0,6",
-      "annal:field_id": "AnnotatedPictures"
+      "annal:property_uri": "ccl:uploaded_pictures",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "AnnotatedPicture_r"
     }
   ],
   "rdfs:label": "Place description",
   "rdfs:comment": "Description of  a place on or near a canal",
-  "annal:add_field": true,
-  "annal:type_id": "_view",
-  "annal:record_type": "ccl:Place",
-  "annal:url": "/annalist/c/CruisingLog/d/_view/Place_view/",
   "annal:id": "Place_view",
+  "annal:type_id": "_view",
+  "annal:edit_view": true,
+  "annal:record_type": "ccl:Place",
+  "annal:open_view": true,
   "@id": "./",
   "@type": [
     "annal:View"
   ],
   "annal:type": "annal:View",
-  "annal:edit_view": true
+  "annal:add_field": true
 }

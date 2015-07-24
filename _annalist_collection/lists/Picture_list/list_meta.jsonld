@@ -1,0 +1,26 @@
+{
+  "rdfs:label": "List of uploaded pictures",
+  "rdfs:comment": "List of uploaded pictures",
+  "annal:default_view": "Picture_view",
+  "annal:default_type": "Picture",
+  "annal:record_type": "ccl:Picture",
+  "annal:type_id": "_list",
+  "annal:list_entity_selector": "\"ccl:Picture\" in [@type]",
+  "annal:display_type": "List",
+  "annal:list_fields": [
+    {
+      "annal:field_placement": "small:0,3",
+      "annal:field_id": "Entity_id"
+    },
+    {
+      "annal:field_placement": "small:3,9",
+      "annal:field_id": "Entity_label"
+    }
+  ],
+  "annal:id": "Picture_list",
+  "@id": "./",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:type": "annal:List"
+}

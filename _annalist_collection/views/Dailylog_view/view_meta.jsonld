@@ -58,14 +58,14 @@
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "AnnotatedPictures"
+      "annal:field_id": "AnnotatedPicture_r"
     }
   ],
   "rdfs:label": "Daily log",
   "rdfs:comment": "Summary of daily cruising activities",
   "annal:open_view": true,
+  "annal:add_field": true,
   "annal:type_id": "_view",
-  "annal:edit_view": true,
   "annal:record_type": "ccl:DailyLog",
   "annal:id": "Dailylog_view",
   "@id": "./",
@@ -73,5 +73,5 @@
     "annal:View"
   ],
   "annal:type": "annal:View",
-  "annal:add_field": true
+  "annal:edit_view": true
 }

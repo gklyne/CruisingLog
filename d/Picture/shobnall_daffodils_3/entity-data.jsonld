@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Shobnall daffodils (3)",
+  "rdfs:comment": "More Shobnall daffodils in spring",
+  "annal:type_id": "Picture",
+  "annal:id": "shobnall_daffodils_3",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_size": 5559249,
+    "uploaded_file": "20120405-1759-343.jpg",
+    "resource_type": "image/jpeg"
+  }
+}
