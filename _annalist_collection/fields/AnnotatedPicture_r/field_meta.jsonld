@@ -14,6 +14,7 @@
   "annal:repeat_label_add": "Add picture",
   "annal:default_value": "",
   "annal:field_value_type": "annal:Field_group",
+  "annal:field_value_mode": "Value_direct",
   "annal:field_render_type": "RepeatGroupRow",
   "annal:field_ref_field": "",
   "annal:id": "AnnotatedPicture_r",

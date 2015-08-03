@@ -14,7 +14,8 @@
   "annal:repeat_label_add": "",
   "annal:default_value": "",
   "annal:field_value_type": "annal:Image",
-  "annal:field_render_type": "FileUpload",
+  "annal:field_value_mode": "Value_upload",
+  "annal:field_render_type": "RefImage",
   "annal:field_ref_field": "",
   "annal:id": "Picture_upload",
   "@type": [
