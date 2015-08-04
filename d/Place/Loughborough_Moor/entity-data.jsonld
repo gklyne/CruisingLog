@@ -1,10 +1,16 @@
 {
   "rdfs:label": "Loughborough Moor",
   "rdfs:comment": "A rural mooring on the outskirts of Loughborough.",
+  "ccl:uploaded_pictures": [
+    {
+      "ccl:picture": "loughborough_moor_1"
+    },
+    {
+      "ccl:picture": "loughborough_moor_2"
+    }
+  ],
   "annal:type_id": "Place",
   "ccl:waterway": "River_Soar",
-  "annal:uri": "/annalist/c/CruisingLog/d/Place/Loughborough_Moor/",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Loughborough_Moor/",
   "annal:id": "Loughborough_Moor",
   "@id": "./",
   "@type": [

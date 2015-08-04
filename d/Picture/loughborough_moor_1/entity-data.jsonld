@@ -1,0 +1,19 @@
+{
+  "rdfs:label": "Loughborough Moor (1)",
+  "rdfs:comment": "View of Loughborough Moor from Millers Bridge",
+  "annal:type_id": "Picture",
+  "annal:id": "loughborough_moor_1",
+  "@id": "./",
+  "@type": [
+    "ccl:Picture",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "annal:picture": {
+    "upload_name": "Picture_upload",
+    "resource_name": "Picture_upload.jpg",
+    "uploaded_size": 2121121,
+    "uploaded_file": "20111006-1230-250.jpg",
+    "resource_type": "image/jpeg"
+  }
+}

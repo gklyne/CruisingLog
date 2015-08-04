@@ -2,13 +2,21 @@
   "rdfs:label": "2011-Oct-05: Bishops Meadow - Loughborough - Loughborough Moor",
   "rdfs:comment": "Engine started OK with starter battery alone.\r\n\r\nTo Loughborough ~1hr\r\nTo Loughborough Moor ~ 1hr\r\n\r\nMoored up by Miller's Bridge beside Loughborough Moor.",
   "ccl:water_level": "8.75",
-  "ccl:stove_fuel": "",
   "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "2",
   "ccl:engine_fuel": "16",
+  "ccl:pictures": [
+    {
+      "ccl:picture": "loughborough_moor_1"
+    },
+    {
+      "ccl:picture": "loughborough_moor_2"
+    }
+  ],
+  "@id": "./",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "2",
   "ccl:place_moored": "Loughborough_Moor",
-  "ccl:engine_hours": "3469.5",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111005/",
+  "annal:type": "annal:EntityData",
   "ccl:cruise_segments": [
     {
       "ccl:travel_hours": "1",
@@ -20,10 +28,9 @@
     }
   ],
   "annal:id": "Log_20111005",
-  "@id": "./",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "ccl:engine_hours": "3469.5"
 }
