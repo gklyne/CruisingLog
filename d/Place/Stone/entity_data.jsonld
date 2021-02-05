@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Stone centre",
-  "rdfs:comment": "Pleasant town with range of shops and facilities.  Morrisons, chandlery, ironmongery, good pub near canal, and more.\r\n\r\nMooring can be tricky at busy times.\r\n\r\nWater and rubbish disposal near chandlery, just below 3rd(?) lock from bottom.\r\n\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Stone/",
-  "annal:id": "Stone",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Stone",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Stone",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Pleasant town with range of shops and facilities.  Morrisons, chandlery, ironmongery, good pub near canal, and more.\r\n\r\nMooring can be tricky at busy times.\r\n\r\nWater and rubbish disposal near chandlery, just below 3rd(?) lock from bottom.\r\n\r\n",
+  "rdfs:label": "Stone centre"
 }

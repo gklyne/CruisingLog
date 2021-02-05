@@ -1,0 +1,30 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Maintenance_notes",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "ccl:Maintenance",
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Markdown",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Richtext",
+  "annal:id": "Maintenance_notes",
+  "annal:placeholder": "(Notes)",
+  "annal:property_uri": "rdfs:comment",
+  "annal:repeat_label_add": "",
+  "annal:repeat_label_delete": "",
+  "annal:tooltip": "Description of and notes about maintenance activity.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Notes\r\n\r\nDescription of and notes about maintenance activity.",
+  "rdfs:label": "Notes"
+}

@@ -1,20 +1,25 @@
 {
-  "rdfs:label": "2012-Apr-20: Willington village - Mercia Marina",
-  "rdfs:comment": "Stove fuel:  18\" on 5-Apr-2012 -> 50l in 2.5 weeks, or 20l/week\r\n\r\nFuel filler inside dia: 34mm / 1 11/32\"\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "9.75",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "0.5",
-  "ccl:engine_fuel": "18.5",
-  "ccl:place_moored": "Mercia_marina",
-  "ccl:engine_hours": "3570.8",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120421/",
-  "ccl:cruise_segments": [],
-  "annal:id": "Log_20120421",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20120421",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20120421",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [],
+  "ccl:engine_fuel": "18.5",
+  "ccl:engine_hours": "3570.8",
+  "ccl:place_moored": "Mercia_marina",
+  "ccl:stove_fuel": "9.75",
+  "ccl:travel_hours": "0.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Stove fuel:  18\" on 5-Apr-2012 -> 50l in 2.5 weeks, or 20l/week\r\n\r\nFuel filler inside dia: 34mm / 1 11/32\"\r\n",
+  "rdfs:label": "2012-Apr-20: Willington village - Mercia Marina"
 }

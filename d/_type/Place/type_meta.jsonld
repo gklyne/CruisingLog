@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Place",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:id": "Place",
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "Place_list",
+  "annal:type_view": "Place_view",
+  "annal:uri": "ccl:Place",
+  "rdfs:comment": "Description of a place on or near a canal",
+  "rdfs:label": "Place"
+}

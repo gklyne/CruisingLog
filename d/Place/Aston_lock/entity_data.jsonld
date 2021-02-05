@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Aston lock",
-  "rdfs:comment": "On the southern outskirts of Stone.  There is a popular marina nearby.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Aston_lock/",
-  "annal:id": "Aston_lock",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Aston_lock",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Aston_lock",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "On the southern outskirts of Stone.  There is a popular marina nearby.",
+  "rdfs:label": "Aston lock"
 }

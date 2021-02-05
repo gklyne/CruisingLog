@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "River Trent",
-  "rdfs:comment": "River navigation from Derwent Mouth near Shardlow to Humber Estuary(?). via Nottingham and the Beeston Canal\r\n\r\nJunctions:\r\nDerwent Mouth with Trent and Mersey Canal\r\nTrent Lock with Erewash Canal\r\nRatcliffe on Soar with River Soar\r\nBeston Lock with Beeston Canal\r\n(?) Nottingham with Beeston Canal\r\n\r\nCanal sections:\r\nCranfield Cut\r\nBeeston Canal",
-  "annal:type_id": "Waterway",
-  "annal:uri": "/annalist/c/CruisingLog/d/Waterway/River_Trent/",
-  "annal:url": "/annalist/c/CruisingLog/d/Waterway/River_Trent/",
-  "annal:id": "River_Trent",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Waterway/River_Trent",
   "@type": [
     "ccl:Waterway",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "River_Trent",
+  "annal:type": "ccl:Waterway",
+  "annal:type_id": "Waterway",
+  "annal:uri": "/annalist/c/CruisingLog/d/Waterway/River_Trent/",
+  "rdfs:comment": "River navigation from Derwent Mouth near Shardlow to Humber Estuary(?). via Nottingham and the Beeston Canal\r\n\r\nJunctions:\r\nDerwent Mouth with Trent and Mersey Canal\r\nTrent Lock with Erewash Canal\r\nRatcliffe on Soar with River Soar\r\nBeston Lock with Beeston Canal\r\n(?) Nottingham with Beeston Canal\r\n\r\nCanal sections:\r\nCranfield Cut\r\nBeeston Canal",
+  "rdfs:label": "River Trent"
 }

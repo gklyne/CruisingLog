@@ -1,45 +1,50 @@
 {
-  "rdfs:label": "2013-May-15: Great Haywood - Rugely - Fradley",
-  "rdfs:comment": "Long cruise.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "6.75",
-  "ccl:engine_fuel": "19.5",
-  "ccl:place_moored": "Fradley_services",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130515/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "1.25",
-      "ccl:place_departed": "Great_Haywood"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "1.25",
-      "ccl:place_departed": "Wolseley_bridge"
-    },
-    {
-      "ccl:travel_hours": "1.25",
-      "ccl:place_departed": "Rugely"
-    },
-    {
-      "ccl:travel_hours": "1.25",
-      "ccl:place_departed": "Handsacre"
-    },
-    {
-      "ccl:travel_hours": "1",
-      "ccl:place_departed": "Kings_Bromley"
-    },
-    {
-      "ccl:travel_hours": "0.75",
-      "ccl:place_departed": "Fradley_top_lock"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130515",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130515",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3739.7"
+  "annal:id": "Log_20130515",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Great_Haywood",
+      "ccl:travel_hours": "1.25"
+    },
+    {
+      "ccl:place_departed": "Wolseley_bridge",
+      "ccl:travel_hours": "1.25"
+    },
+    {
+      "ccl:place_departed": "Rugely",
+      "ccl:travel_hours": "1.25"
+    },
+    {
+      "ccl:place_departed": "Handsacre",
+      "ccl:travel_hours": "1.25"
+    },
+    {
+      "ccl:place_departed": "Kings_Bromley",
+      "ccl:travel_hours": "1"
+    },
+    {
+      "ccl:place_departed": "Fradley_top_lock",
+      "ccl:travel_hours": "0.75"
+    }
+  ],
+  "ccl:engine_fuel": "19.5",
+  "ccl:engine_hours": "3739.7",
+  "ccl:place_moored": "Fradley_services",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "6.75",
+  "ccl:water_level": "",
+  "rdfs:comment": "Long cruise.",
+  "rdfs:label": "2013-May-15: Great Haywood - Rugely - Fradley"
 }

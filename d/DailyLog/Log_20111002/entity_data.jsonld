@@ -1,10 +1,27 @@
 {
-  "ccl:pictures__2": [],
-  "rdfs:label": "2011-Oct-02: Mercia to Weston",
-  "rdfs:comment": "## First day of our first cruise.  \r\n\r\nLeft Mercia Marina and travelled a couple of hours through Stenson and Swarkestone to Weston Cliff Wood, moored beside the River Trent.\r\n",
-  "ccl:water_level": "",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20111002",
+  "@type": [
+    "ccl:DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:id": "Log_20111002",
+  "annal:type": "ccl:DailyLog",
   "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Mercia_marina",
+      "ccl:travel_hours": "3"
+    }
+  ],
   "ccl:engine_fuel": "",
+  "ccl:engine_hours": "",
+  "ccl:notes": "",
   "ccl:pictures": [
     {
       "ccl:picture": "weston_cliff_woods_1"
@@ -13,24 +30,13 @@
       "ccl:picture": "weston_cliff_woods_2"
     }
   ],
-  "@id": "./",
-  "ccl:waterway": "River_Trent",
-  "ccl:stove_fuel": "",
-  "ccl:notes": "",
-  "ccl:travel_hours": "3",
-  "ccl:stove_duel": "",
+  "ccl:pictures__2": [],
   "ccl:place_moored": "Weston_cliff_wood",
-  "ccl:engine_hours": "",
-  "ccl:cruise_segments": [
-    {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Mercia_marina"
-    }
-  ],
-  "annal:id": "Log_20111002",
-  "@type": [
-    "ccl:DailyLog",
-    "annal:EntityData"
-  ],
-  "annal:type": "annal:EntityData"
+  "ccl:stove_duel": "",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "3",
+  "ccl:water_level": "",
+  "ccl:waterway": "River_Trent",
+  "rdfs:comment": "## First day of our first cruise.  \r\n\r\nLeft Mercia Marina and travelled a couple of hours through Stenson and Swarkestone to Weston Cliff Wood, moored beside the River Trent.\r\n",
+  "rdfs:label": "2011-Oct-02: Mercia to Weston"
 }

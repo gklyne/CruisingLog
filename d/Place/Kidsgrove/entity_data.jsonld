@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Kidsgrove",
-  "rdfs:comment": "Nondescript town at the junction of the Tent and Mersey and Macclesfield canals.\r\n\r\nLarge supermarket about 10 minutes walk from closest moorings.\r\n\r\nThe Northern portal of the Harecastle Tunnel is nearby.\r\n\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Kidsgrove/",
-  "annal:id": "Kidsgrove",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Kidsgrove",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Kidsgrove",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Nondescript town at the junction of the Tent and Mersey and Macclesfield canals.\r\n\r\nLarge supermarket about 10 minutes walk from closest moorings.\r\n\r\nThe Northern portal of the Harecastle Tunnel is nearby.\r\n\r\n",
+  "rdfs:label": "Kidsgrove"
 }

@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Bugsworth Basin",
-  "rdfs:comment": "Near Whaley Bridge at the end of the Peak Forest canal.\r\n\r\nVery attractive moorings, and services.\r\n\r\nSite of an old and once very busy (lime?) trans-shipment centre.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Peak_Forest",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Bugswoth_basin/",
-  "annal:id": "Bugswoth_basin",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Bugswoth_basin",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Bugswoth_basin",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Peak_Forest",
+  "rdfs:comment": "Near Whaley Bridge at the end of the Peak Forest canal.\r\n\r\nVery attractive moorings, and services.\r\n\r\nSite of an old and once very busy (lime?) trans-shipment centre.",
+  "rdfs:label": "Bugsworth Basin"
 }

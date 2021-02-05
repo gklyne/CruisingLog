@@ -1,9 +1,30 @@
 {
-  "rdfs:label": "2011-Oct-05: Bishops Meadow - Loughborough - Loughborough Moor",
-  "rdfs:comment": "Engine started OK with starter battery alone.\r\n\r\nTo Loughborough ~1hr\r\nTo Loughborough Moor ~ 1hr\r\n\r\nMoored up by Miller's Bridge beside Loughborough Moor.",
-  "ccl:water_level": "8.75",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20111005",
+  "@type": [
+    "ccl:DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:id": "Log_20111005",
+  "annal:type": "ccl:DailyLog",
   "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Bishops_Meadow",
+      "ccl:travel_hours": "1"
+    },
+    {
+      "ccl:place_departed": "Loughborough",
+      "ccl:travel_hours": "1"
+    }
+  ],
   "ccl:engine_fuel": "16",
+  "ccl:engine_hours": "3469.5",
   "ccl:pictures": [
     {
       "ccl:picture": "loughborough_moor_1"
@@ -12,25 +33,10 @@
       "ccl:picture": "loughborough_moor_2"
     }
   ],
-  "@id": "./",
+  "ccl:place_moored": "Loughborough_Moor",
   "ccl:stove_fuel": "",
   "ccl:travel_hours": "2",
-  "ccl:place_moored": "Loughborough_Moor",
-  "annal:type": "annal:EntityData",
-  "ccl:cruise_segments": [
-    {
-      "ccl:travel_hours": "1",
-      "ccl:place_departed": "Bishops_Meadow"
-    },
-    {
-      "ccl:travel_hours": "1",
-      "ccl:place_departed": "Loughborough"
-    }
-  ],
-  "annal:id": "Log_20111005",
-  "@type": [
-    "ccl:DailyLog",
-    "annal:EntityData"
-  ],
-  "ccl:engine_hours": "3469.5"
+  "ccl:water_level": "8.75",
+  "rdfs:comment": "Engine started OK with starter battery alone.\r\n\r\nTo Loughborough ~1hr\r\nTo Loughborough Moor ~ 1hr\r\n\r\nMoored up by Miller's Bridge beside Loughborough Moor.",
+  "rdfs:label": "2011-Oct-05: Bishops Meadow - Loughborough - Loughborough Moor"
 }

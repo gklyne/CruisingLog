@@ -1,0 +1,32 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Picture_list",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "Picture",
+  "annal:default_view": "Picture_view",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Picture_list",
+  "annal:list_entity_selector": "\"ccl:Picture\" in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:record_type": "ccl:Picture",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "rdfs:comment": "List of uploaded pictures",
+  "rdfs:label": "List of uploaded pictures"
+}

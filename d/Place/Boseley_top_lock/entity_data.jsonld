@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Dane AqueductTop of Boseley Locks",
-  "rdfs:comment": "Services here.\r\n\r\nNot much mooring.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Macclesfield_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Boseley_top_lock/",
-  "annal:id": "Boseley_top_lock",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Boseley_top_lock",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Boseley_top_lock",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "rdfs:comment": "Services here.\r\n\r\nNot much mooring.\r\n",
+  "rdfs:label": "Dane AqueductTop of Boseley Locks"
 }

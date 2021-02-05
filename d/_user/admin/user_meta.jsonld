@@ -1,0 +1,27 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_user/admin",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:id": "admin",
+  "annal:type": "annal:User",
+  "annal:type_id": "_user",
+  "annal:uri": "/annalist/c/CruisingLog/d/_user/admin/",
+  "annal:user_permission": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG",
+    "ADMIN"
+  ],
+  "annal:user_uri": "mailto:admin@localhost",
+  "rdfs:comment": "User admin: permissions for Admin User in collection CruisingLog",
+  "rdfs:label": "Admin User"
+}

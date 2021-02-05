@@ -1,13 +1,18 @@
 {
-  "rdfs:label": "Heating system and options",
-  "rdfs:comment": "Three sources of heat:\r\n1. engine: heats water, which can be used to heat boat by turning on the circulation pump. \r\n2. Bubble stove, heats radiators and how water (though not as hot as engine).  \r\n3. Immersion heater in hot water tank, usable *only* with shoreline power.\r\n\r\nTo get the boat up to temperature more quickly, it pays to use shoreline power and/or the engine as well as the bubble stove.  Shoreline and Bubble stove together can bring the boat up to a reasonable temperature in a few hours (e.g. 4-6 hours).\r\n\r\n\r\n\r\nLighting the Bubble stove:\r\n\r\n@@TODO (bubble stove lighting instructions)\r\n\r\nNotes:\r\n- Circulation pump switch by front door, next to water pump switch\r\n- Circulating pump must be on while Bubble stove is lit, or a fuel cut-off is activated.\r\n- Bubble stove tank dips 18-19\" when full\r\n- Bubble stove tank capacity is difficult to judge as its very wide at the base, but seems to be about 100l (65 litres taken 25 Jun 2014 when the tank was probably about 5-8\" remaining - last measure 8.5\" on was 29-May)\r\n",
-  "annal:type_id": "Maintenance",
-  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_heating_system/",
-  "annal:id": "Tech_heating_system",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Maintenance/Tech_heating_system",
   "@type": [
     "ccl:Maintenance",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Tech_heating_system",
+  "annal:type": "ccl:Maintenance",
+  "annal:type_id": "Maintenance",
+  "rdfs:comment": "Three sources of heat:\r\n1. engine: heats water, which can be used to heat boat by turning on the circulation pump. \r\n2. Bubble stove, heats radiators and how water (though not as hot as engine).  \r\n3. Immersion heater in hot water tank, usable *only* with shoreline power.\r\n\r\nTo get the boat up to temperature more quickly, it pays to use shoreline power and/or the engine as well as the bubble stove.  Shoreline and Bubble stove together can bring the boat up to a reasonable temperature in a few hours (e.g. 4-6 hours).\r\n\r\n\r\n\r\nLighting the Bubble stove:\r\n\r\n@@TODO (bubble stove lighting instructions)\r\n\r\nNotes:\r\n- Circulation pump switch by front door, next to water pump switch\r\n- Circulating pump must be on while Bubble stove is lit, or a fuel cut-off is activated.\r\n- Bubble stove tank dips 18-19\" when full\r\n- Bubble stove tank capacity is difficult to judge as its very wide at the base, but seems to be about 100l (65 litres taken 25 Jun 2014 when the tank was probably about 5-8\" remaining - last measure 8.5\" on was 29-May)\r\n",
+  "rdfs:label": "Heating system and options"
 }

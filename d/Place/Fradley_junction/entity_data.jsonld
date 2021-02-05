@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Fradley junction",
-  "rdfs:comment": "A busy junction, with BW waterways office, cafe, pub and some short-term moorings.\r\n\r\nFacilities: water, rubbish, elsan (but, in our experience, the elsan disposal is somewhat prone to being out of order, especially on busy weekends).",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Fradley_junction/",
-  "annal:id": "Fradley_junction",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Fradley_junction",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Fradley_junction",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "A busy junction, with BW waterways office, cafe, pub and some short-term moorings.\r\n\r\nFacilities: water, rubbish, elsan (but, in our experience, the elsan disposal is somewhat prone to being out of order, especially on busy weekends).",
+  "rdfs:label": "Fradley junction"
 }

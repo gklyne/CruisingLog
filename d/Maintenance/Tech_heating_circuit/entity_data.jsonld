@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Heating circuit details",
-  "rdfs:comment": "Total capacity about 12 litres\r\n\r\nAir bleed points on radiators and drain point behind Bubble stove.\r\n\r\nCirculating pump below front step (alongside water pump).\r\n\r\nNOTE: the expansion tank in the hot water circuit is *below* the highest point in the circuit.  Therefore it must be unclipped and lifted when filling/bleeding the circuit.  Also, if there is an air leak, water level in the header tank *rises* and may overflow - hence overflow pipe from header to separate container under the rear step.\r\n\r\nThe expansion tank is held on by a rubber strap, which may be unclipped to lift the tank.  Stand it on the hatch door ledge to bring it above other points in the circuit.  Overflow into 5 liter container ensures any loss due to air leak is captured.",
-  "annal:type_id": "Maintenance",
-  "ccl:place_moored": "",
-  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_heating_circuit/",
-  "annal:id": "Tech_heating_circuit",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Maintenance/Tech_heating_circuit",
   "@type": [
     "ccl:Maintenance",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Tech_heating_circuit",
+  "annal:type": "ccl:Maintenance",
+  "annal:type_id": "Maintenance",
+  "ccl:place_moored": "",
+  "rdfs:comment": "Total capacity about 12 litres\r\n\r\nAir bleed points on radiators and drain point behind Bubble stove.\r\n\r\nCirculating pump below front step (alongside water pump).\r\n\r\nNOTE: the expansion tank in the hot water circuit is *below* the highest point in the circuit.  Therefore it must be unclipped and lifted when filling/bleeding the circuit.  Also, if there is an air leak, water level in the header tank *rises* and may overflow - hence overflow pipe from header to separate container under the rear step.\r\n\r\nThe expansion tank is held on by a rubber strap, which may be unclipped to lift the tank.  Stand it on the hatch door ledge to bring it above other points in the circuit.  Overflow into 5 liter container ensures any loss due to air leak is captured.",
+  "rdfs:label": "Heating circuit details"
 }

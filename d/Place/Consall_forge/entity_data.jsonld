@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Consall Forge",
-  "rdfs:comment": "A lovely remote location in the Churnet Valley (in the end of the river section), with a very nice pub and restored railway station.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Caldon_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Consall_forge/",
-  "annal:id": "Consall_forge",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Consall_forge",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Consall_forge",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "rdfs:comment": "A lovely remote location in the Churnet Valley (in the end of the river section), with a very nice pub and restored railway station.",
+  "rdfs:label": "Consall Forge"
 }

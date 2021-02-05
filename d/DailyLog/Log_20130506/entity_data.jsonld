@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-May-06: Hollybush, Denford - Stoke Boat Club - Leek Pool",
-  "rdfs:comment": "(Not sure what we were doing - possibly traveling to Park Lane services to water, then turning at the boat club.)",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "5",
-  "ccl:engine_fuel": "10",
-  "ccl:place_moored": "Leek_pool",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130506/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "5",
-      "ccl:place_departed": "Denford"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130506",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130506",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3715.3"
+  "annal:id": "Log_20130506",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Denford",
+      "ccl:travel_hours": "5"
+    }
+  ],
+  "ccl:engine_fuel": "10",
+  "ccl:engine_hours": "3715.3",
+  "ccl:place_moored": "Leek_pool",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "5",
+  "ccl:water_level": "",
+  "rdfs:comment": "(Not sure what we were doing - possibly traveling to Park Lane services to water, then turning at the boat club.)",
+  "rdfs:label": "2013-May-06: Hollybush, Denford - Stoke Boat Club - Leek Pool"
 }

@@ -1,0 +1,27 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_user/gklyne",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:id": "gklyne",
+  "annal:type": "annal:User",
+  "annal:type_id": "_user",
+  "annal:uri": "/annalist/c/CruisingLog/d/_user/gklyne/",
+  "annal:user_permission": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG",
+    "ADMIN"
+  ],
+  "annal:user_uri": "mailto:graham.klyne@oerc.ox.ac.uk",
+  "rdfs:comment": "Graham Klyne - admin permissions for CruisingLog collection",
+  "rdfs:label": "Graham Klyne"
+}

@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-May-09: Milton - Etruria",
-  "rdfs:comment": "After nearly 3 days at Etruria with no engine run, battery consumption was 160Ah; voltage 12.2V @ 3A draw.  This was with the solar panel partly shaded and weather not especially sunny.\r\n\r\n@@TODO: attach sketch map of area ariubn d Stoke/Hanle/Etruria.  Station, Hanwell park, Shelton Auto Parts, Zagros fress nan bakery, Indian restaurant in vicinity.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "2.25",
-  "ccl:engine_fuel": "",
-  "ccl:place_moored": "Etruria",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130509/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "2.25",
-      "ccl:place_departed": "Milton"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130509",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130509",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": ""
+  "annal:id": "Log_20130509",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Milton",
+      "ccl:travel_hours": "2.25"
+    }
+  ],
+  "ccl:engine_fuel": "",
+  "ccl:engine_hours": "",
+  "ccl:place_moored": "Etruria",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "2.25",
+  "ccl:water_level": "",
+  "rdfs:comment": "After nearly 3 days at Etruria with no engine run, battery consumption was 160Ah; voltage 12.2V @ 3A draw.  This was with the solar panel partly shaded and weather not especially sunny.\r\n\r\n@@TODO: attach sketch map of area ariubn d Stoke/Hanle/Etruria.  Station, Hanwell park, Shelton Auto Parts, Zagros fress nan bakery, Indian restaurant in vicinity.",
+  "rdfs:label": "2013-May-09: Milton - Etruria"
 }

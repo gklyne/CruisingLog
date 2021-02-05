@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Tixall Wide",
-  "rdfs:comment": "A very wide length of canal about a mile South of Great Haywood junction.  Popular mooring spot, with open views.\r\n\r\nDon't arrive too late, or the best mooring spots will be taken.  The bank is low and a bit ropey, and can be rather muddy in places  There are more attractive moorings further South along the canal.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Stafford_Worcester",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Tixall_wide/",
-  "annal:id": "Tixall_wide",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Tixall_wide",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Tixall_wide",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Stafford_Worcester",
+  "rdfs:comment": "A very wide length of canal about a mile South of Great Haywood junction.  Popular mooring spot, with open views.\r\n\r\nDon't arrive too late, or the best mooring spots will be taken.  The bank is low and a bit ropey, and can be rather muddy in places  There are more attractive moorings further South along the canal.\r\n",
+  "rdfs:label": "Tixall Wide"
 }

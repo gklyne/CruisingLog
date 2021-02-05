@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-May-05: Consall Forge - Hollybush, Denford",
-  "rdfs:comment": "Moved up to the Hollybush Pub, Denford, after a couple of days at Consall Forge.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "3",
-  "ccl:engine_fuel": "",
-  "ccl:place_moored": "Denford",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130505/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Consall_forge"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130505",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130505",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": ""
+  "annal:id": "Log_20130505",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Consall_forge",
+      "ccl:travel_hours": "3"
+    }
+  ],
+  "ccl:engine_fuel": "",
+  "ccl:engine_hours": "",
+  "ccl:place_moored": "Denford",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "3",
+  "ccl:water_level": "",
+  "rdfs:comment": "Moved up to the Hollybush Pub, Denford, after a couple of days at Consall Forge.",
+  "rdfs:label": "2013-May-05: Consall Forge - Hollybush, Denford"
 }

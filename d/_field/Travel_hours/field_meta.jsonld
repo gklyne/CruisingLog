@@ -1,0 +1,28 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Travel_hours",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Travel_hours",
+  "annal:placeholder": "(Travel time in hours)",
+  "annal:property_uri": "ccl:travel_hours",
+  "annal:tooltip": "Cruising time in hours",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "annal:uri": "/annalist/c/CruisingLog/d/_field/Travel_hours/",
+  "rdfs:comment": "# Travel time\r\n\r\nCruising time in hours",
+  "rdfs:label": "Travel time"
+}

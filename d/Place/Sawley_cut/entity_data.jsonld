@@ -1,6 +1,18 @@
 {
-  "rdfs:label": "Sawley Cut",
-  "rdfs:comment": "Sawley Cut is a short distance downstream from the junction of the Trent and Mersey canal and the River Trent.  There are a large marina, a boat club and full services here.\r\n\r\nAt the downstream end is a sometimes-manned pair of locks onto the river.\r\n\r\nWater is available from a pontoon on the weir stream side of the island, close to the locks.\r\n",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Sawley_cut",
+  "@type": [
+    "ccl:Place",
+    "annal:EntityData"
+  ],
+  "annal:id": "Sawley_cut",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
   "ccl:uploaded_pictures": [
     {
       "ccl:picture": "sawley_cut_1"
@@ -9,13 +21,7 @@
       "ccl:picture": "sawley_cut_2"
     }
   ],
-  "annal:type_id": "Place",
   "ccl:waterway": "River_Trent",
-  "annal:id": "Sawley_cut",
-  "@id": "./",
-  "@type": [
-    "ccl:Place",
-    "annal:EntityData"
-  ],
-  "annal:type": "annal:EntityData"
+  "rdfs:comment": "Sawley Cut is a short distance downstream from the junction of the Trent and Mersey canal and the River Trent.  There are a large marina, a boat club and full services here.\r\n\r\nAt the downstream end is a sometimes-manned pair of locks onto the river.\r\n\r\nWater is available from a pontoon on the weir stream side of the island, close to the locks.\r\n",
+  "rdfs:label": "Sawley Cut"
 }

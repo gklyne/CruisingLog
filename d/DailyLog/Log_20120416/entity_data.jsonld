@@ -1,19 +1,24 @@
 {
-  "rdfs:label": "2012-Apr-16: Etruria - Stoke-on-trent",
-  "rdfs:comment": "Descent through Stoke 5 locks: 1.25hrs\r\nStoke bottom lock - Stone: 4.25hrs\r\n\r\nMoored at bottom of Stoke locks to source replacement water pump.  Motor factors Shelton Auto Spares are close to canal, about 10 minutes walk up Stoke Road from large bridge at bottom of locks.  Very helpful: were able to source replacement pump in about 2.5 hours.\r\n\r\n55 Stoke Road, ST4 2QN.  01782 414862.\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "5.5",
-  "ccl:engine_fuel": "",
-  "ccl:place_moored": "Stone",
-  "ccl:engine_hours": "",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120416/",
-  "annal:id": "Log_20120416",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20120416",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20120416",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:engine_fuel": "",
+  "ccl:engine_hours": "",
+  "ccl:place_moored": "Stone",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "5.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Descent through Stoke 5 locks: 1.25hrs\r\nStoke bottom lock - Stone: 4.25hrs\r\n\r\nMoored at bottom of Stoke locks to source replacement water pump.  Motor factors Shelton Auto Spares are close to canal, about 10 minutes walk up Stoke Road from large bridge at bottom of locks.  Very helpful: were able to source replacement pump in about 2.5 hours.\r\n\r\n55 Stoke Road, ST4 2QN.  01782 414862.\r\n",
+  "rdfs:label": "2012-Apr-16: Etruria - Stoke-on-trent"
 }

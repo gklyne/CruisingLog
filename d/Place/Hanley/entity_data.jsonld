@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Hanley park",
-  "rdfs:comment": "Park side mooring, but somewhat frequented by local youths, so not the most comfortable of stopping places.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Caldon_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Hanley/",
-  "annal:id": "Hanley",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Hanley",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Hanley",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "rdfs:comment": "Park side mooring, but somewhat frequented by local youths, so not the most comfortable of stopping places.",
+  "rdfs:label": "Hanley park"
 }

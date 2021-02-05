@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-Apr-30: Milton - Hazelhurst Junction",
-  "rdfs:comment": "New batteries fully charged.  Not sure how long it really took as battery monitor was set to wrong Ah;  est <2hrs.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "3",
-  "ccl:engine_fuel": "12.5",
-  "ccl:place_moored": "Hazelhurst_junction",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130430/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Milton"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130430",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130430",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3701.5"
+  "annal:id": "Log_20130430",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Milton",
+      "ccl:travel_hours": "3"
+    }
+  ],
+  "ccl:engine_fuel": "12.5",
+  "ccl:engine_hours": "3701.5",
+  "ccl:place_moored": "Hazelhurst_junction",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "3",
+  "ccl:water_level": "",
+  "rdfs:comment": "New batteries fully charged.  Not sure how long it really took as battery monitor was set to wrong Ah;  est <2hrs.",
+  "rdfs:label": "2013-Apr-30: Milton - Hazelhurst Junction"
 }

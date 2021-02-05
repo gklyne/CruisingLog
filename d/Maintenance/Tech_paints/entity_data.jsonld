@@ -1,13 +1,18 @@
 {
-  "rdfs:label": "Paints used",
-  "rdfs:comment": "Paints left in locker:\r\n\r\nInternational grey deck paint (polyurethane)\r\nInternational blue/grey Pre-Kote\r\nHempel Dolphin Grey (used in well deck; sides appear top be like International Atlantic Grey)\r\nMidland Chandlers enamel black\r\nJohnstons Victyory Red\r\nBlakes Pale Cream\r\n\r\nAs the colours have faded somewhat, I'm switching to International Toplac for new remedial work:\r\n- black\r\n- atlantic grey\r\n- (maroon?)\r\n- (cream/ivory?)\r\n\r\n- Danboline grey bilge paint\r\n- Owatrol (sp?) for rust inhibiting/priming - recommended buy Ian Richards\r\n\r\n",
-  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_paints/",
-  "annal:type_id": "Maintenance",
-  "annal:id": "Tech_paints",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Maintenance/Tech_paints",
   "@type": [
     "ccl:Maintenance",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Tech_paints",
+  "annal:type": "ccl:Maintenance",
+  "annal:type_id": "Maintenance",
+  "rdfs:comment": "Paints left in locker:\r\n\r\nInternational grey deck paint (polyurethane)\r\nInternational blue/grey Pre-Kote\r\nHempel Dolphin Grey (used in well deck; sides appear top be like International Atlantic Grey)\r\nMidland Chandlers enamel black\r\nJohnstons Victyory Red\r\nBlakes Pale Cream\r\n\r\nAs the colours have faded somewhat, I'm switching to International Toplac for new remedial work:\r\n- black\r\n- atlantic grey\r\n- (maroon?)\r\n- (cream/ivory?)\r\n\r\n- Danboline grey bilge paint\r\n- Owatrol (sp?) for rust inhibiting/priming - recommended buy Ian Richards\r\n\r\n",
+  "rdfs:label": "Paints used"
 }

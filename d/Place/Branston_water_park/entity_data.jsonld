@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Branston Water Park",
-  "rdfs:comment": "Pleasant, popular moorings alongside Branston Water Park.  Nice walk around the lake, but not much more.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Branston_water_park/",
-  "annal:id": "Branston_water_park",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Branston_water_park",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Branston_water_park",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Pleasant, popular moorings alongside Branston Water Park.  Nice walk around the lake, but not much more.",
+  "rdfs:label": "Branston Water Park"
 }

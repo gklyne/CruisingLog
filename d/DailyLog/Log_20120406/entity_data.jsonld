@@ -1,19 +1,24 @@
 {
-  "rdfs:label": "2012-Apr-06: Shobnall - Alrewas",
-  "rdfs:comment": "(5 hrs cruising time with lock delays - bank holiday bad time to set out)\r\n\r\n\r\n\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "17.75",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "5",
-  "ccl:engine_fuel": "18.5",
-  "ccl:place_moored": "Alrewas",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120406/",
-  "annal:id": "Log_20120406",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20120406",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": ""
+  "annal:id": "Log_20120406",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:engine_fuel": "18.5",
+  "ccl:engine_hours": "",
+  "ccl:place_moored": "Alrewas",
+  "ccl:stove_fuel": "17.75",
+  "ccl:travel_hours": "5",
+  "ccl:water_level": "",
+  "rdfs:comment": "(5 hrs cruising time with lock delays - bank holiday bad time to set out)\r\n\r\n\r\n\r\n",
+  "rdfs:label": "2012-Apr-06: Shobnall - Alrewas"
 }

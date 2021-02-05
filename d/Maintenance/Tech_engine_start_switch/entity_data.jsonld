@@ -1,13 +1,18 @@
 {
-  "rdfs:label": "Engine start key switch operation",
-  "rdfs:comment": "The key switch has 4 positions:\r\n- stop\r\n- off\r\n- on\r\n- plug heater\r\n- start\r\n\r\nTo start, turn to plug heater position.  Voltage should show over 123V, with some twitching caused by fuel pump.  After a few seconds, turn to start position to turn over engine.  Return to on position when engine fires.\r\n\r\nTo stop, turn key to stop position until engine stops.  Then (VERY IMPORTANT) return the key to the off position.\r\n\r\nThe engine uses an activated solenoid to stop the engine.  If the key is left in the stop position after the engine is stopped, the solenoid continues to drain the battery, so it must be returned to the off position when the engine is stopped.  The Vetus engines are unusual in this respect.\r\n\r\nIn the unlikely event of battery failure while the engine is running, there is a small rubber-covered plunger on the engine solenoid/started that can be pressed to stop the engine.",
-  "annal:type_id": "Maintenance",
-  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_engine_start_switch/",
-  "annal:id": "Tech_engine_start_switch",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Maintenance/Tech_engine_start_switch",
   "@type": [
     "ccl:Maintenance",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Tech_engine_start_switch",
+  "annal:type": "ccl:Maintenance",
+  "annal:type_id": "Maintenance",
+  "rdfs:comment": "The key switch has 4 positions:\r\n- stop\r\n- off\r\n- on\r\n- plug heater\r\n- start\r\n\r\nTo start, turn to plug heater position.  Voltage should show over 123V, with some twitching caused by fuel pump.  After a few seconds, turn to start position to turn over engine.  Return to on position when engine fires.\r\n\r\nTo stop, turn key to stop position until engine stops.  Then (VERY IMPORTANT) return the key to the off position.\r\n\r\nThe engine uses an activated solenoid to stop the engine.  If the key is left in the stop position after the engine is stopped, the solenoid continues to drain the battery, so it must be returned to the off position when the engine is stopped.  The Vetus engines are unusual in this respect.\r\n\r\nIn the unlikely event of battery failure while the engine is running, there is a small rubber-covered plunger on the engine solenoid/started that can be pressed to stop the engine.",
+  "rdfs:label": "Engine start key switch operation"
 }

@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Filters and oil used",
-  "rdfs:comment": "Oil filter: STM0051\r\nFuel filter: FRAM P5672, STM3690, BF1257\r\nOil used: 20/50 standard\r\n",
-  "annal:type_id": "Maintenance",
-  "ccl:place_moored": "",
-  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_filters/",
-  "annal:id": "Tech_filters",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Maintenance/Tech_filters",
   "@type": [
     "ccl:Maintenance",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Tech_filters",
+  "annal:type": "ccl:Maintenance",
+  "annal:type_id": "Maintenance",
+  "ccl:place_moored": "",
+  "rdfs:comment": "Oil filter: STM0051\r\nFuel filter: FRAM P5672, STM3690, BF1257\r\nOil used: 20/50 standard\r\n",
+  "rdfs:label": "Filters and oil used"
 }

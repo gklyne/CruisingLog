@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Bollington",
-  "rdfs:comment": "Pleasant town straddled by aqueduct.\r\n\r\nA popular mooring spot, with moorings on the aqueduct.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Macclesfield_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Bollington/",
-  "annal:id": "Bollington",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Bollington",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Bollington",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "rdfs:comment": "Pleasant town straddled by aqueduct.\r\n\r\nA popular mooring spot, with moorings on the aqueduct.\r\n",
+  "rdfs:label": "Bollington"
 }

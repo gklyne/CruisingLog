@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Birches Head (outskirts of Stoke on Trent)",
-  "rdfs:comment": "An adequate mooring just beyond the obviously built-up part of Hanley and suburbs.\r\n\r\nWe later heard that the local housing estates are rather rough (with \"feral\" youths), and this is probably not a good place to stop.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Caldon_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Birches_head/",
-  "annal:id": "Birches_head",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Birches_head",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Birches_head",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "rdfs:comment": "An adequate mooring just beyond the obviously built-up part of Hanley and suburbs.\r\n\r\nWe later heard that the local housing estates are rather rough (with \"feral\" youths), and this is probably not a good place to stop.",
+  "rdfs:label": "Birches Head (outskirts of Stoke on Trent)"
 }

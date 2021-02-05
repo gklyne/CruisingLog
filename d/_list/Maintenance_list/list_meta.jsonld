@@ -1,0 +1,32 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Maintenance_list",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "Maintenance",
+  "annal:default_view": "Maintenance_view",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Maintenance_list",
+  "annal:list_entity_selector": "ccl:Maintenance in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:record_type": "ccl:Maintenance",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "rdfs:comment": "Summarize maintenance details",
+  "rdfs:label": "Maintenance details list"
+}

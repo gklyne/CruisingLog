@@ -1,0 +1,53 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_view/Place_view",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:add_field": true,
+  "annal:edit_view": true,
+  "annal:id": "Place_view",
+  "annal:open_view": true,
+  "annal:record_type": "ccl:Place",
+  "annal:type": "annal:View",
+  "annal:type_id": "_view",
+  "annal:view_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Waterway",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Place_notes",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/AnnotatedPicture_r",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": "ccl:uploaded_pictures"
+    },
+    {
+      "annal:field_id": "_field/GeoTag",
+      "annal:field_placement": "",
+      "annal:property_uri": ""
+    }
+  ],
+  "rdfs:comment": "Description of  a place on or near a canal",
+  "rdfs:label": "Place description"
+}

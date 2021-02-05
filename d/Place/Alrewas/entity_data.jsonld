@@ -1,14 +1,21 @@
 {
-  "rdfs:label": "Alrewas village",
-  "rdfs:comment": "A pleasant village, probably the most southerly point on the Trent and Mersey.\r\n\r\nGood moorings in the village, and also just beyond the lock heading towards Fradley.\r\n\r\nShops are about 5-10 minutes walk from the canal.  They include a good butcher (Coates) and a co-op opr similar.  Thgere is a (part-time?) post office [@@check].\r\n\r\nWater point: a short distance above the lock onto the river section.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Alrewas/",
-  "annal:id": "Alrewas",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Alrewas",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Alrewas",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:uploaded_pictures": [],
+  "ccl:waterway": "Waterway/Trent_Mersey",
+  "rdfs:comment": "A pleasant village, probably the most southerly point on the Trent and Mersey.\r\n\r\nGood moorings in the village, and also just beyond the lock heading towards Fradley.\r\n\r\nShops are about 5-10 minutes walk from the canal.  They include a good butcher (Coates) and a co-op opr similar.  Thgere is a (part-time?) post office [@@check].\r\n\r\nWater point: a short distance above the lock onto the river section.\r\n",
+  "rdfs:label": "Alrewas village",
+  "temp:geotag": ""
 }

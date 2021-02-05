@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Park lane services (Caldon)",
-  "rdfs:comment": "Comprehensive services on the Caldon Canal",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Caldon_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Park_lane_services/",
-  "annal:id": "Park_lane_services",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Park_lane_services",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Park_lane_services",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "rdfs:comment": "Comprehensive services on the Caldon Canal",
+  "rdfs:label": "Park lane services (Caldon)"
 }

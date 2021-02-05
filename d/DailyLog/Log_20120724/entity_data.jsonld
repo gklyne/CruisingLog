@@ -1,33 +1,38 @@
 {
-  "rdfs:label": "2012-Jul-24: Congleton - Boseley Locks - Fools Nook",
-  "rdfs:comment": "Refueled by barge Alton (Renaissance Carrying)\r\nEst 10\" before refuel.\r\nEngine: 75litres -> 22.5\"\r\nStove: 62 litres -> 20?\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "20?",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "5.5",
-  "ccl:engine_fuel": "22.5",
-  "ccl:place_moored": "Fools_Nook",
-  "ccl:engine_hours": "3609.5",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120724/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "1.75",
-      "ccl:place_departed": "Congleton"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Dane_aqueduct"
-    },
-    {
-      "ccl:travel_hours": "0.75",
-      "ccl:place_departed": "Boseley_top_lock"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120724",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120724",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20120724",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Congleton",
+      "ccl:travel_hours": "1.75"
+    },
+    {
+      "ccl:place_departed": "Dane_aqueduct",
+      "ccl:travel_hours": "3"
+    },
+    {
+      "ccl:place_departed": "Boseley_top_lock",
+      "ccl:travel_hours": "0.75"
+    }
+  ],
+  "ccl:engine_fuel": "22.5",
+  "ccl:engine_hours": "3609.5",
+  "ccl:place_moored": "Fools_Nook",
+  "ccl:stove_fuel": "20?",
+  "ccl:travel_hours": "5.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Refueled by barge Alton (Renaissance Carrying)\r\nEst 10\" before refuel.\r\nEngine: 75litres -> 22.5\"\r\nStove: 62 litres -> 20?\r\n",
+  "rdfs:label": "2012-Jul-24: Congleton - Boseley Locks - Fools Nook"
 }

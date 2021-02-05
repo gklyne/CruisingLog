@@ -1,13 +1,18 @@
 {
-  "rdfs:label": "Hot water tank plumbing connections",
-  "rdfs:comment": "There are three connected circuits:\r\n- inner: engine hot water\r\n- middle: heating circuit\r\n- outer: cold water in (bottom), hot water out (top)\r\n\r\nThe centre tap can be used to drain the tank.\r\n\r\n@@TODO: add diagram\r\n\r\nMain water circuit was originally connected to the heating circuit with a non-return valve.  I have since separated them to allow for expansion  in the heating circuit, using a salvaged car radiator header tank.\r\n\r\n",
-  "annal:url": "/annalist/c/CruisingLog/d/Maintenance/Tech_hot_water_tank/",
-  "annal:type_id": "Maintenance",
-  "annal:id": "Tech_hot_water_tank",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Maintenance/Tech_hot_water_tank",
   "@type": [
     "ccl:Maintenance",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Tech_hot_water_tank",
+  "annal:type": "ccl:Maintenance",
+  "annal:type_id": "Maintenance",
+  "rdfs:comment": "There are three connected circuits:\r\n- inner: engine hot water\r\n- middle: heating circuit\r\n- outer: cold water in (bottom), hot water out (top)\r\n\r\nThe centre tap can be used to drain the tank.\r\n\r\n@@TODO: add diagram\r\n\r\nMain water circuit was originally connected to the heating circuit with a non-return valve.  I have since separated them to allow for expansion  in the heating circuit, using a salvaged car radiator header tank.\r\n\r\n",
+  "rdfs:label": "Hot water tank plumbing connections"
 }

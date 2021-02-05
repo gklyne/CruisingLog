@@ -1,24 +1,29 @@
 {
-  "rdfs:label": "2013-May-14: Great Haywoodn - enginbe service",
-  "rdfs:comment": "Engine service:\r\n- dirt in fuel filter\r\n- oil is clean\r\n- losing some water from engine - maybe from pressure cap, or tube to heat exchanger?\r\n- fuel filter - replace plastic drain plug with metal for fire safety (M8?)\r\n- last service: 13-Apr-2012 @ 3530 hrs\r\n- old oil filter: FRAM PH3917 removed\r\n\r\nNew oil filter:\r\nNew fuel filter: FRAM P5672\r\nOil used: 20/50 standard\r\n\r\n- After changing fuel filter, use ignition to run fuel pump to refill cartridge until ticking slows to about 1/second\r\n- Be aware that gas locker is potential BSS failure - new test requirements include check on integrity of locker floor.  Clean and seal before BSS is done.\r\n- Next service, check tappets/followers\r\n\r\nNote: BSS expires 18 Dec 2014\r\n\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "8",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20130514",
+  "@type": [
+    "ccl:DailyLog",
+    "annal:EntityData"
+  ],
+  "annal:id": "Log_20130514",
+  "annal:type": "ccl:DailyLog",
   "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "",
-  "ccl:engine_fuel": "5.5",
-  "ccl:place_moored": "Great_Haywood",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130514/",
   "ccl:cruise_segments": [
     {
       "ccl:place_departed": "Great_Haywood"
     }
   ],
-  "annal:id": "Log_20130514",
-  "@id": "./",
-  "@type": [
-    "ccl:DailyLog",
-    "annal:EntityData"
-  ],
-  "ccl:engine_hours": "3733.2"
+  "ccl:engine_fuel": "5.5",
+  "ccl:engine_hours": "3733.2",
+  "ccl:place_moored": "Great_Haywood",
+  "ccl:stove_fuel": "8",
+  "ccl:travel_hours": "",
+  "ccl:water_level": "",
+  "rdfs:comment": "Engine service:\r\n- dirt in fuel filter\r\n- oil is clean\r\n- losing some water from engine - maybe from pressure cap, or tube to heat exchanger?\r\n- fuel filter - replace plastic drain plug with metal for fire safety (M8?)\r\n- last service: 13-Apr-2012 @ 3530 hrs\r\n- old oil filter: FRAM PH3917 removed\r\n\r\nNew oil filter:\r\nNew fuel filter: FRAM P5672\r\nOil used: 20/50 standard\r\n\r\n- After changing fuel filter, use ignition to run fuel pump to refill cartridge until ticking slows to about 1/second\r\n- Be aware that gas locker is potential BSS failure - new test requirements include check on integrity of locker floor.  Clean and seal before BSS is done.\r\n- Next service, check tappets/followers\r\n\r\nNote: BSS expires 18 Dec 2014\r\n\r\n",
+  "rdfs:label": "2013-May-14: Great Haywoodn - enginbe service"
 }

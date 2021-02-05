@@ -1,6 +1,19 @@
 {
-  "rdfs:label": "Weston cliff wood",
-  "rdfs:comment": "Weston cliff, between Swarkestone and Weston locks, where the canal runs beside the River Trent for a short while.",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Weston_cliff_wood",
+  "@type": [
+    "ccl:Place",
+    "annal:EntityData"
+  ],
+  "annal:id": "Weston_cliff_wood",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:pictures": "",
   "ccl:uploaded_pictures": [
     {
       "ccl:picture": "weston_cliff_woods_1"
@@ -9,14 +22,7 @@
       "ccl:picture": "weston_cliff_woods_2"
     }
   ],
-  "annal:type_id": "Place",
   "ccl:waterway": "Trent_Mersey",
-  "ccl:pictures": "",
-  "annal:id": "Weston_cliff_wood",
-  "@id": "./",
-  "@type": [
-    "ccl:Place",
-    "annal:EntityData"
-  ],
-  "annal:type": "annal:EntityData"
+  "rdfs:comment": "Weston cliff, between Swarkestone and Weston locks, where the canal runs beside the River Trent for a short while.",
+  "rdfs:label": "Weston cliff wood"
 }

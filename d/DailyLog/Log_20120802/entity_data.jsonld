@@ -1,33 +1,38 @@
 {
-  "rdfs:label": "2012-Aug-02: Fradley Junction - Alrewas - Branston - Shobnall",
-  "rdfs:comment": "",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "5",
-  "ccl:engine_fuel": "10.5",
-  "ccl:place_moored": "Shobnall_fields",
-  "ccl:engine_hours": "3660.2",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120802/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "1.5",
-      "ccl:place_departed": "Fradley_junction"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "2.5",
-      "ccl:place_departed": "Alrewas"
-    },
-    {
-      "ccl:travel_hours": "1",
-      "ccl:place_departed": "Branston_water_park"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120802",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120802",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20120802",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Fradley_junction",
+      "ccl:travel_hours": "1.5"
+    },
+    {
+      "ccl:place_departed": "Alrewas",
+      "ccl:travel_hours": "2.5"
+    },
+    {
+      "ccl:place_departed": "Branston_water_park",
+      "ccl:travel_hours": "1"
+    }
+  ],
+  "ccl:engine_fuel": "10.5",
+  "ccl:engine_hours": "3660.2",
+  "ccl:place_moored": "Shobnall_fields",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "5",
+  "ccl:water_level": "",
+  "rdfs:comment": "",
+  "rdfs:label": "2012-Aug-02: Fradley Junction - Alrewas - Branston - Shobnall"
 }

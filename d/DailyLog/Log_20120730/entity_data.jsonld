@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2012-Jul-30: Westport Lake - Stoke - Stone",
-  "rdfs:comment": "Stuck behind butty on Stone flight; otherwise would have been closer to 5 hours.\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "6.25",
-  "ccl:engine_fuel": "",
-  "ccl:place_moored": "Stone",
-  "ccl:engine_hours": "3644.6",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120730/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "6.25",
-      "ccl:place_departed": "Westport_lake"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120730",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120730",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20120730",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Westport_lake",
+      "ccl:travel_hours": "6.25"
+    }
+  ],
+  "ccl:engine_fuel": "",
+  "ccl:engine_hours": "3644.6",
+  "ccl:place_moored": "Stone",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "6.25",
+  "ccl:water_level": "",
+  "rdfs:comment": "Stuck behind butty on Stone flight; otherwise would have been closer to 5 hours.\r\n",
+  "rdfs:label": "2012-Jul-30: Westport Lake - Stoke - Stone"
 }

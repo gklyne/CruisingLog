@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Gurnet aqueduct",
-  "rdfs:comment": "Village and moorings (and country club/park?) on Southern approach to Macclesfield.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Macclesfield_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Gurnet_aqueduct/",
-  "annal:id": "Gurnet_aqueduct",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Gurnet_aqueduct",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Gurnet_aqueduct",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "rdfs:comment": "Village and moorings (and country club/park?) on Southern approach to Macclesfield.",
+  "rdfs:label": "Gurnet aqueduct"
 }

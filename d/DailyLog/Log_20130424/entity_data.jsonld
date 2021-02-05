@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-Apr-24: Trent Aqueduct - Tixall Wide",
-  "rdfs:comment": "Overnight elec used ~60Av.  Battery voltage >11V\r\n(Ran inverter several hours to recharge computer; ~5.8A for inverter on load, 1A quiescent.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "3",
-  "ccl:engine_fuel": "17",
-  "ccl:place_moored": "Tixall_wide",
-  "ccl:engine_hours": "3683.5",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130424/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Trent_aqueduct"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130424",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130424",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20130424",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Trent_aqueduct",
+      "ccl:travel_hours": "3"
+    }
+  ],
+  "ccl:engine_fuel": "17",
+  "ccl:engine_hours": "3683.5",
+  "ccl:place_moored": "Tixall_wide",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "3",
+  "ccl:water_level": "",
+  "rdfs:comment": "Overnight elec used ~60Av.  Battery voltage >11V\r\n(Ran inverter several hours to recharge computer; ~5.8A for inverter on load, 1A quiescent.",
+  "rdfs:label": "2013-Apr-24: Trent Aqueduct - Tixall Wide"
 }

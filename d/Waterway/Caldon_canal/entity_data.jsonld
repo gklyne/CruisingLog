@@ -1,13 +1,18 @@
 {
-  "rdfs:label": "Caldon Canal",
-  "rdfs:comment": "A branch canal joining the Trent and Mersey at Etruria, leading to Hazlehurst Junction, and on to Leek via the Leek Arm, and Froghall via the Curnet Valley.\r\n\r\nThe far reaches towards Leek and Froghall are very pleasant.\r\n",
-  "annal:type_id": "Waterway",
-  "annal:url": "/annalist/c/CruisingLog/d/Waterway/Caldon_canal/",
-  "annal:id": "Caldon_canal",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Waterway/Caldon_canal",
   "@type": [
     "ccl:Waterway",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Caldon_canal",
+  "annal:type": "ccl:Waterway",
+  "annal:type_id": "Waterway",
+  "rdfs:comment": "A branch canal joining the Trent and Mersey at Etruria, leading to Hazlehurst Junction, and on to Leek via the Leek Arm, and Froghall via the Curnet Valley.\r\n\r\nThe far reaches towards Leek and Froghall are very pleasant.\r\n",
+  "rdfs:label": "Caldon Canal"
 }

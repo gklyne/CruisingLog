@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2012-Jul-26: Marple (+1mi) - Bugsworth Basin",
-  "rdfs:comment": "\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "3",
-  "ccl:engine_fuel": "20.5",
-  "ccl:place_moored": "Bugswoth_basin",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120726/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Marple"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120726",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120726",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3619.9"
+  "annal:id": "Log_20120726",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Marple",
+      "ccl:travel_hours": "3"
+    }
+  ],
+  "ccl:engine_fuel": "20.5",
+  "ccl:engine_hours": "3619.9",
+  "ccl:place_moored": "Bugswoth_basin",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "3",
+  "ccl:water_level": "",
+  "rdfs:comment": "\r\n",
+  "rdfs:label": "2012-Jul-26: Marple (+1mi) - Bugsworth Basin"
 }

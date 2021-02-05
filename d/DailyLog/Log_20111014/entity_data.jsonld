@@ -1,19 +1,24 @@
 {
-  "rdfs:label": "2011-Oct-14: Mercia marina",
-  "rdfs:comment": "Refueled in marina:  \r\n10.25\" before, 21\" after, 61.06 litres taken;\r\ntalk capacity: 5.68 litres/inch (for total of about 120 litres)\r\nfuel use: 1.43 litres/hour\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "",
-  "ccl:engine_fuel": "21",
-  "ccl:place_moored": "Mercia_marina",
-  "ccl:engine_hours": "3492.6",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111014/",
-  "annal:id": "Log_20111014",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20111014",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20111014",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:engine_fuel": "21",
+  "ccl:engine_hours": "3492.6",
+  "ccl:place_moored": "Mercia_marina",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "",
+  "ccl:water_level": "",
+  "rdfs:comment": "Refueled in marina:  \r\n10.25\" before, 21\" after, 61.06 litres taken;\r\ntalk capacity: 5.68 litres/inch (for total of about 120 litres)\r\nfuel use: 1.43 litres/hour\r\n",
+  "rdfs:label": "2011-Oct-14: Mercia marina"
 }

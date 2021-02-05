@@ -1,29 +1,35 @@
 {
-  "rdfs:label": "2013-May-17: Burton - Willington - Mercia Marina",
-  "rdfs:comment": "Tried washing machine on return to Mercia.  Took about 1.5 hours and used 1.5-2\" of water from tank.\r\n\r\nElectricity \u00a31.36\r\nEngine oil half way between dipstick marks.\r\nEngine water just below filler cap - use this as reference for future checks: don't fill above this level.\r\n\r\nLeft boat.\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "2.5",
-  "ccl:engine_fuel": "17.5",
-  "ccl:place_moored": "Mercia_marina",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130517/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "2",
-      "ccl:place_departed": "Shobnall_fields"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "0.5",
-      "ccl:place_departed": "Willington"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130517",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130517",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3746.9"
+  "annal:id": "Log_20130517",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Place/Shobnall_fields",
+      "ccl:travel_hours": "2"
+    },
+    {
+      "ccl:place_departed": "Place/Willington",
+      "ccl:travel_hours": "0.5"
+    }
+  ],
+  "ccl:engine_fuel": "17.5",
+  "ccl:engine_hours": "3746.9",
+  "ccl:pictures": [],
+  "ccl:place_moored": "Place/Mercia_marina",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "2.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Tried washing machine on return to Mercia.  Took about 1.5 hours and used 1.5-2\" of water from tank.\r\n\r\nElectricity \u00a31.36\r\nEngine oil half way between dipstick marks.\r\nEngine water just below filler cap - use this as reference for future checks: don't fill above this level.\r\n\r\nLeft boat..\r\n",
+  "rdfs:label": "2013-May-17: Burton - Willington - Mercia Marina"
 }

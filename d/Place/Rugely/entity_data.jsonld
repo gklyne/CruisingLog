@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Rugely centre",
-  "rdfs:comment": "A useful location for topping up supplies.  Morrisons and Tescos close to the canal.  Various shops in the town, including a decent ironmonger.  No facilities (nearest water is Spode House just outside Armitage).",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Rugely/",
-  "annal:id": "Rugely",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Rugely",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Rugely",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "A useful location for topping up supplies.  Morrisons and Tescos close to the canal.  Various shops in the town, including a decent ironmonger.  No facilities (nearest water is Spode House just outside Armitage).",
+  "rdfs:label": "Rugely centre"
 }

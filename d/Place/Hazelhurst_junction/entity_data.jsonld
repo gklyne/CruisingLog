@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Hazelhust junction (Caldon)",
-  "rdfs:comment": "The very pretty junction of the Leek and Churnet Valley arms of the Caldon canal.\r\n\r\nThe Churnet Valley arm descends immediately to Denford.\r\n\r\nThere are pleasant moorings just past the junction on the Leek arm.\r\n\r\nNo facilities.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Caldon_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Hazelhurst_junction/",
-  "annal:id": "Hazelhurst_junction",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Hazelhurst_junction",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Hazelhurst_junction",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Caldon_canal",
+  "rdfs:comment": "The very pretty junction of the Leek and Churnet Valley arms of the Caldon canal.\r\n\r\nThe Churnet Valley arm descends immediately to Denford.\r\n\r\nThere are pleasant moorings just past the junction on the Leek arm.\r\n\r\nNo facilities.\r\n",
+  "rdfs:label": "Hazelhust junction (Caldon)"
 }

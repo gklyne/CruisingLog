@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-May-13: Stone - Great Haywood",
-  "rdfs:comment": "Refueled at Great Haywood Marina.  Fuel price 89p.\r\nEngine tank: 90.72l to 21\"\r\nStove tank: 60.84l to 19\"\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "8",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "4.5",
-  "ccl:engine_fuel": "5.5",
-  "ccl:place_moored": "Great_Haywood",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130513/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "4.5",
-      "ccl:place_departed": "Stone"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130513",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130513",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3733.2"
+  "annal:id": "Log_20130513",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Stone",
+      "ccl:travel_hours": "4.5"
+    }
+  ],
+  "ccl:engine_fuel": "5.5",
+  "ccl:engine_hours": "3733.2",
+  "ccl:place_moored": "Great_Haywood",
+  "ccl:stove_fuel": "8",
+  "ccl:travel_hours": "4.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Refueled at Great Haywood Marina.  Fuel price 89p.\r\nEngine tank: 90.72l to 21\"\r\nStove tank: 60.84l to 19\"\r\n",
+  "rdfs:label": "2013-May-13: Stone - Great Haywood"
 }

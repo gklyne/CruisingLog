@@ -1,25 +1,31 @@
 {
-  "rdfs:label": "2012-Apr-05: Mercia - Shobnall",
-  "rdfs:comment": "Ran Bubble stove overnight to heat water and warm boat.  Full power for 5 hrs, medium for 5 hrs, then low.  Continuous running at low does seem to be effective for keeping the boat warm once the chill and damp have been dispelled.\r\n\r\nFilled up the stove fuel tank:  18\": when full.  65.8 litres taken.\r\n\r\nMercia - Shobnall: 3 hrs\r\n",
-  "ccl:water_level": "",
-  "annal:type_id": "DailyLog",
-  "ccl:engine_fuel": "",
-  "ccl:pictures": [],
-  "@id": "./",
-  "ccl:stove_fuel": "18",
-  "ccl:travel_hours": "3",
-  "ccl:place_moored": "Shobnall_fields",
-  "annal:type": "annal:EntityData",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Mercia_marina"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120405",
+  "@id": "DailyLog/Log_20120405",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3492.6+"
+  "annal:id": "Log_20120405",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Mercia_marina",
+      "ccl:travel_hours": "3"
+    }
+  ],
+  "ccl:engine_fuel": "",
+  "ccl:engine_hours": "3492.6+",
+  "ccl:pictures": [],
+  "ccl:place_moored": "Shobnall_fields",
+  "ccl:stove_fuel": "18",
+  "ccl:travel_hours": "3",
+  "ccl:water_level": "",
+  "rdfs:comment": "Ran Bubble stove overnight to heat water and warm boat.  Full power for 5 hrs, medium for 5 hrs, then low.  Continuous running at low does seem to be effective for keeping the boat warm once the chill and damp have been dispelled.\r\n\r\nFilled up the stove fuel tank:  18\": when full.  65.8 litres taken.\r\n\r\nMercia - Shobnall: 3 hrs\r\n",
+  "rdfs:label": "2012-Apr-05: Mercia - Shobnall"
 }

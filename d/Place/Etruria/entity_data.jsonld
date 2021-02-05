@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Etruria, top of Stoke 5 locks",
-  "rdfs:comment": "An industrial heritage visitor centre and BW waterways office on the jucntion of the Trent-and-Mersey and Caldon canals.\r\n\r\nQuiet moorings in a fairly dense urban area.\r\n\r\nFacilities: water, elsan, rubbish disposal\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Etruria/",
-  "annal:id": "Etruria",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Etruria",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Etruria",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "An industrial heritage visitor centre and BW waterways office on the jucntion of the Trent-and-Mersey and Caldon canals.\r\n\r\nQuiet moorings in a fairly dense urban area.\r\n\r\nFacilities: water, elsan, rubbish disposal\r\n",
+  "rdfs:label": "Etruria, top of Stoke 5 locks"
 }

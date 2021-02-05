@@ -1,0 +1,38 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Cruise_segment",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "ccl:DailyLog",
+  "annal:field_fields": [
+    {
+      "annal:field_id": "Place_departed"
+    },
+    {
+      "annal:field_id": "Travel_hours"
+    }
+  ],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Group_Seq_Row",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Cruise_segment",
+  "annal:placeholder": "(cruise segments)",
+  "annal:property_uri": "ccl:cruise_segments",
+  "annal:repeat_label_add": "Add cruise segment",
+  "annal:repeat_label_delete": "Remove cruise segment",
+  "annal:tooltip": "These fields indicate location and cruise times for intermediate segments of a day's cruising.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Cruise segments\r\n\r\nThese fields indicate location and cruise times for intermediate segments of a day's cruising.",
+  "rdfs:label": "Cruise segments"
+}

@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Cranfleet cut, near Trent Lock",
-  "rdfs:comment": "An isolated mooring on a canal section of the Trent.\r\n\r\nMuch of the cut is given over to permanent moorings, but there are 48 hour moorings towards the upstream (Trent Lock) end [check]\r\n\r\nWater available [near lock at downstrem end of cut?]   [Or was it at downstream end of Beeston canal?]\r\n\r\nVery exposed when windy.  We had problems coming in to moor.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "River_Trent",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Cranfleet_cut/",
-  "annal:id": "Cranfleet_cut",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Cranfleet_cut",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Cranfleet_cut",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "River_Trent",
+  "rdfs:comment": "An isolated mooring on a canal section of the Trent.\r\n\r\nMuch of the cut is given over to permanent moorings, but there are 48 hour moorings towards the upstream (Trent Lock) end [check]\r\n\r\nWater available [near lock at downstrem end of cut?]   [Or was it at downstream end of Beeston canal?]\r\n\r\nVery exposed when windy.  We had problems coming in to moor.\r\n",
+  "rdfs:label": "Cranfleet cut, near Trent Lock"
 }

@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-Apr-29: Birches Head - Milton",
-  "rdfs:comment": "Replaced domestic battery bank with 4xLX31MF (Lucas 110Ah, rated 400 cycles @ 60% discharge)\r\n\r\nBatteries supplied \"fully charged\".  Just fitted and used.  12.5V after overnight use.\r\n\r\nMilton is a very convenient spot for vehicle access, by entrance to Hardman Football Development Centre.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "1",
-  "ccl:engine_fuel": "13.5",
-  "ccl:place_moored": "Milton",
-  "ccl:engine_hours": "3697.5",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130429/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "1",
-      "ccl:place_departed": "Birches_head"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130429",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130429",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20130429",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Birches_head",
+      "ccl:travel_hours": "1"
+    }
+  ],
+  "ccl:engine_fuel": "13.5",
+  "ccl:engine_hours": "3697.5",
+  "ccl:place_moored": "Milton",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "1",
+  "ccl:water_level": "",
+  "rdfs:comment": "Replaced domestic battery bank with 4xLX31MF (Lucas 110Ah, rated 400 cycles @ 60% discharge)\r\n\r\nBatteries supplied \"fully charged\".  Just fitted and used.  12.5V after overnight use.\r\n\r\nMilton is a very convenient spot for vehicle access, by entrance to Hardman Football Development Centre.",
+  "rdfs:label": "2013-Apr-29: Birches Head - Milton"
 }

@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Willington village",
-  "rdfs:comment": "Popular location has shops, water, elsan, winding hole.\r\n\r\nQuite noisy (traffic, trains, some planes).\r\n\r\nCanal front pub is quite good for beer but very expensive.  Not tried food there.\r\n\r\nThere are two other pubs in the village, a very short walk from the canal.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Willington/",
-  "annal:id": "Willington",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Willington",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Willington",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Popular location has shops, water, elsan, winding hole.\r\n\r\nQuite noisy (traffic, trains, some planes).\r\n\r\nCanal front pub is quite good for beer but very expensive.  Not tried food there.\r\n\r\nThere are two other pubs in the village, a very short walk from the canal.\r\n",
+  "rdfs:label": "Willington village"
 }

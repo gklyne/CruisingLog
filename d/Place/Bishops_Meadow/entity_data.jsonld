@@ -1,15 +1,20 @@
 {
-  "rdfs:label": "Bishops Meadow, Loughborough",
-  "rdfs:comment": "Moorings just below one of two l;ocks inthe canal section through and around Loughborough.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "River_Soar",
-  "annal:uri": "/annalist/c/CruisingLog/d/Place/Bishops_Meadow/",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Bishops_Meadow/",
-  "annal:id": "Bishops_Meadow",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Bishops_Meadow",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Bishops_Meadow",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "annal:uri": "/annalist/c/CruisingLog/d/Place/Bishops_Meadow/",
+  "ccl:waterway": "River_Soar",
+  "rdfs:comment": "Moorings just below one of two l;ocks inthe canal section through and around Loughborough.",
+  "rdfs:label": "Bishops Meadow, Loughborough"
 }

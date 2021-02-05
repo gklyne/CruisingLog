@@ -1,20 +1,26 @@
 {
-  "rdfs:label": "2011-Oct-08: Beeston canal - Nottingham",
-  "rdfs:comment": "Engine started fine, having left battery connected but isolated overnight.\r\n\r\nShort run into Nottingham.\r\n\r\nLit Bubble stove.  Starts easily enough per instructions.  At low settings, provides good background heat in boat, but didn't completely dispel the chill - maybe accumulated damp? [LATER: we've learned it takes several hours to come fully up to temperature - probably needing to heat water and fabric of boat.]\r\n",
-  "ccl:water_level": "2",
-  "annal:type_id": "DailyLog",
-  "ccl:engine_fuel": "13",
-  "ccl:pictures": [],
-  "@id": "./",
-  "ccl:stove_fuel": "",
-  "ccl:travel_hours": "2",
-  "ccl:place_moored": "Nottingham",
-  "annal:type": "annal:EntityData",
-  "ccl:cruise_segments": [],
-  "annal:id": "Log_20111008",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20111008",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3480.5"
+  "annal:id": "Log_20111008",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [],
+  "ccl:engine_fuel": "13",
+  "ccl:engine_hours": "3480.5",
+  "ccl:pictures": [],
+  "ccl:place_moored": "Nottingham",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "2",
+  "ccl:water_level": "2",
+  "rdfs:comment": "Engine started fine, having left battery connected but isolated overnight.\r\n\r\nShort run into Nottingham.\r\n\r\nLit Bubble stove.  Starts easily enough per instructions.  At low settings, provides good background heat in boat, but didn't completely dispel the chill - maybe accumulated damp? [LATER: we've learned it takes several hours to come fully up to temperature - probably needing to heat water and fabric of boat.]\r\n",
+  "rdfs:label": "2011-Oct-08: Beeston canal - Nottingham"
 }

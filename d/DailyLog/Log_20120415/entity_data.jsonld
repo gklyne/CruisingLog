@@ -1,19 +1,24 @@
 {
-  "rdfs:label": "2012-Apr-15: Leek arm - Hazelhurst Junction - Etruria",
-  "rdfs:comment": "Leek arm - Hazelhurst Junction: 1hr\r\nHazelhurst Junction - Etruria: 6.5hr (including stop at Park Lane services.  ~6hrs cruising)\r\n\r\nHeating circulation water pump failed.  Part number: Bosch 0392 020024.  (Later replaced with much quieter pump)",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "7.5",
-  "ccl:engine_fuel": "",
-  "ccl:place_moored": "Etruria",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120415/",
-  "annal:id": "Log_20120415",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20120415",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": ""
+  "annal:id": "Log_20120415",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:engine_fuel": "",
+  "ccl:engine_hours": "",
+  "ccl:place_moored": "Etruria",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "7.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Leek arm - Hazelhurst Junction: 1hr\r\nHazelhurst Junction - Etruria: 6.5hr (including stop at Park Lane services.  ~6hrs cruising)\r\n\r\nHeating circulation water pump failed.  Part number: Bosch 0392 020024.  (Later replaced with much quieter pump)",
+  "rdfs:label": "2012-Apr-15: Leek arm - Hazelhurst Junction - Etruria"
 }

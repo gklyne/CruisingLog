@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Shardlow village",
-  "rdfs:comment": "Isolated village with chandlery and pubs.  There is a small shop about 5 mins cycle ride from the canal.\r\n\r\n[Water?]\r\n\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Shardlow/",
-  "annal:id": "Shardlow",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Shardlow",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Shardlow",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Isolated village with chandlery and pubs.  There is a small shop about 5 mins cycle ride from the canal.\r\n\r\n[Water?]\r\n\r\n",
+  "rdfs:label": "Shardlow village"
 }

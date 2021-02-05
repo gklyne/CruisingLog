@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Stenson Marina",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:type_id": "Place",
-  "rdfs:comment": "Stenson Marina and Midland Canal Centre.  Old style marina with boat builder, services and chandlery.  Beside Stensol Lock.",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Stenson_marina/",
-  "annal:id": "Stenson_marina",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Stenson_marina",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Stenson_marina",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Stenson Marina and Midland Canal Centre.  Old style marina with boat builder, services and chandlery.  Beside Stensol Lock.",
+  "rdfs:label": "Stenson Marina"
 }

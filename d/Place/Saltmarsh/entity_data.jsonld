@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Saltmarch",
-  "rdfs:comment": "Remote mooring between Stone and Great Haywood, near inland salt marsh.\r\n\r\nSupposedly home to unusual plant species, and general wildlife reserve.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Saltmarsh/",
-  "annal:id": "Saltmarsh",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Saltmarsh",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Saltmarsh",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Remote mooring between Stone and Great Haywood, near inland salt marsh.\r\n\r\nSupposedly home to unusual plant species, and general wildlife reserve.",
+  "rdfs:label": "Saltmarch"
 }

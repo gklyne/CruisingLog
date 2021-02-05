@@ -1,19 +1,25 @@
 {
-  "rdfs:label": "River Trent towards Nottingham",
-  "rdfs:comment": "River Trent towards Nottingham",
-  "annal:type_id": "Picture",
-  "annal:id": "river_trent_3",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Picture/river_trent_3",
   "@type": [
     "ccl:Picture",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData",
+  "annal:id": "river_trent_3",
   "annal:picture": {
-    "upload_name": "Picture_upload",
     "resource_name": "Picture_upload.jpg",
-    "uploaded_size": 4469712,
+    "resource_type": "image/jpeg",
+    "upload_name": "Picture_upload",
     "uploaded_file": "20111009-1229-013.jpg",
-    "resource_type": "image/jpeg"
-  }
+    "uploaded_size": 4469712
+  },
+  "annal:type": "ccl:Picture",
+  "annal:type_id": "Picture",
+  "rdfs:comment": "River Trent towards Nottingham",
+  "rdfs:label": "River Trent towards Nottingham"
 }

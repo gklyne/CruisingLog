@@ -1,13 +1,22 @@
 {
-  "rdfs:label": "Shobnall fields, Burton",
-  "rdfs:comment": "Very pleasant moorings on edge of Burton-on-Trent, about 15 minutes walk from town centre, and adjacent to playing fields.\r\n\r\nNo facilities.\r\n",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Shobnall_fields",
+  "@type": [
+    "ccl:Place",
+    "annal:EntityData"
+  ],
   "annal:id": "Shobnall_fields",
+  "annal:type": "ccl:Place",
   "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
   "ccl:pictures": [
     {
-      "ccl:picture": "https://farm8.staticflickr.com/7331/15873246583_052e8b59d1_z_d.jpg",
-      "ccl:annotation": "Daffodils at Shobnall Fields in spring."
+      "ccl:annotation": "Daffodils at Shobnall Fields in spring.",
+      "ccl:picture": "https://farm8.staticflickr.com/7331/15873246583_052e8b59d1_z_d.jpg"
     }
   ],
   "ccl:uploaded_pictures": [
@@ -21,10 +30,7 @@
       "ccl:picture": "shobnall_daffodils_3"
     }
   ],
-  "@id": "./",
-  "@type": [
-    "ccl:Place",
-    "annal:EntityData"
-  ],
-  "annal:type": "annal:EntityData"
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Very pleasant moorings on edge of Burton-on-Trent, about 15 minutes walk from town centre, and adjacent to playing fields.\r\n\r\nNo facilities.\r\n",
+  "rdfs:label": "Shobnall fields, Burton"
 }

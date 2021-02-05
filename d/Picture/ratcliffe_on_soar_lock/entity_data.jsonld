@@ -1,19 +1,25 @@
 {
-  "rdfs:label": "Ratcliffe on Soar lock",
-  "rdfs:comment": "Deadlock!\r\n\r\n(Livelock is beside it.)",
-  "annal:type_id": "Picture",
-  "annal:id": "ratcliffe_on_soar_lock",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Picture/ratcliffe_on_soar_lock",
   "@type": [
     "ccl:Picture",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData",
+  "annal:id": "ratcliffe_on_soar_lock",
   "annal:picture": {
-    "upload_name": "Picture_upload",
     "resource_name": "Picture_upload.jpg",
-    "uploaded_size": 3352620,
+    "resource_type": "image/jpeg",
+    "upload_name": "Picture_upload",
     "uploaded_file": "20111004-1426-238.jpg",
-    "resource_type": "image/jpeg"
-  }
+    "uploaded_size": 3352620
+  },
+  "annal:type": "ccl:Picture",
+  "annal:type_id": "Picture",
+  "rdfs:comment": "Deadlock!\r\n\r\n(Livelock is beside it.)",
+  "rdfs:label": "Ratcliffe on Soar lock"
 }

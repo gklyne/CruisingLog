@@ -1,0 +1,28 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Engine_fuel",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Engine_fuel",
+  "annal:placeholder": "(Engine fuel tank level)",
+  "annal:property_uri": "ccl:engine_fuel",
+  "annal:tooltip": "Engine fuel tank level, in inches, per dipstick.\r\n\r\nNote: approx 5.6 l/inch, and 4 hours running/inch.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "annal:uri": "/annalist/c/CruisingLog/d/_field/Engine_fuel/",
+  "rdfs:comment": "# Engine fuel\r\n\r\nEngine fuel tank level, in inches, per dipstick.\r\n\r\nNote: approx 5.6 l/inch, and 4 hours running/inch.",
+  "rdfs:label": "Engine fuel"
+}

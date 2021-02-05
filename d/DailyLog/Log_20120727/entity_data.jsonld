@@ -1,29 +1,34 @@
 {
-  "rdfs:label": "2012-Jul-27: Bugsworth Basin - before Bollington",
-  "rdfs:comment": "",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "6.5",
-  "ccl:engine_fuel": "19",
-  "ccl:place_moored": "Bollington",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120727/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "3.5",
-      "ccl:place_departed": "Bugswoth_basin"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Marple"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120727",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120727",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3626.0"
+  "annal:id": "Log_20120727",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Bugswoth_basin",
+      "ccl:travel_hours": "3.5"
+    },
+    {
+      "ccl:place_departed": "Marple",
+      "ccl:travel_hours": "3"
+    }
+  ],
+  "ccl:engine_fuel": "19",
+  "ccl:engine_hours": "3626.0",
+  "ccl:place_moored": "Bollington",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "6.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "",
+  "rdfs:label": "2012-Jul-27: Bugsworth Basin - before Bollington"
 }

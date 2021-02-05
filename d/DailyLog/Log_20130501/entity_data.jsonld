@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-May-01: Hazelhurst Junction - Leek",
-  "rdfs:comment": "Battery fully charged from ~ -65Ah",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "1.5",
-  "ccl:engine_fuel": "12",
-  "ccl:place_moored": "Leek",
-  "ccl:engine_hours": "3703.2",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130501/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "1.5",
-      "ccl:place_departed": "Hazelhurst_junction"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130501",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130501",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20130501",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Hazelhurst_junction",
+      "ccl:travel_hours": "1.5"
+    }
+  ],
+  "ccl:engine_fuel": "12",
+  "ccl:engine_hours": "3703.2",
+  "ccl:place_moored": "Leek",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "1.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Battery fully charged from ~ -65Ah",
+  "rdfs:label": "2013-May-01: Hazelhurst Junction - Leek"
 }

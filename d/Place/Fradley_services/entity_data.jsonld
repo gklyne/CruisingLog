@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Fradley services",
-  "rdfs:comment": "Full services 1 lock below Fradley Junction.  Also 48 hour moorings.\r\n\r\nOn bank holiday weekends, the Elsan disposal can be out of action (full)\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Fradley_services/",
-  "annal:id": "Fradley_services",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Fradley_services",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Fradley_services",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Full services 1 lock below Fradley Junction.  Also 48 hour moorings.\r\n\r\nOn bank holiday weekends, the Elsan disposal can be out of action (full)\r\n",
+  "rdfs:label": "Fradley services"
 }

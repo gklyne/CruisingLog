@@ -1,0 +1,36 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/DailyLog_list",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "DailyLog",
+  "annal:default_view": "Dailylog_view",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "DailyLog_list",
+  "annal:list_entity_selector": "ccl:DailyLog in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "Place_moored",
+      "annal:field_placement": "small:3,3"
+    },
+    {
+      "annal:field_id": "Entity_label",
+      "annal:field_placement": "small:6,6"
+    }
+  ],
+  "annal:record_type": "ccl:DailyLog",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "rdfs:comment": "List of daily cruising log entries",
+  "rdfs:label": "List of daily log entries"
+}

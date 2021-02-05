@@ -1,29 +1,34 @@
 {
-  "rdfs:label": "2012-Aug-01: Tixall wide - Rugeley - Fradley Junction",
-  "rdfs:comment": "\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "5.5",
-  "ccl:engine_fuel": "12",
-  "ccl:place_moored": "Fradley_junction",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120801/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "2.75",
-      "ccl:place_departed": "Tixall_wide"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "2.75",
-      "ccl:place_departed": "Rugely"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120801",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120801",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3655.2"
+  "annal:id": "Log_20120801",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Tixall_wide",
+      "ccl:travel_hours": "2.75"
+    },
+    {
+      "ccl:place_departed": "Rugely",
+      "ccl:travel_hours": "2.75"
+    }
+  ],
+  "ccl:engine_fuel": "12",
+  "ccl:engine_hours": "3655.2",
+  "ccl:place_moored": "Fradley_junction",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "5.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "\r\n",
+  "rdfs:label": "2012-Aug-01: Tixall wide - Rugeley - Fradley Junction"
 }

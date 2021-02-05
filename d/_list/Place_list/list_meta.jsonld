@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Place_list",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "Place",
+  "annal:default_view": "Place_view",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Place_list",
+  "annal:list_entity_selector": "ccl:Place in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:record_type": "ccl:Place",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "/annalist/c/CruisingLog/d/_list/Place_list/",
+  "rdfs:comment": "List places on or near canals",
+  "rdfs:label": "List places on or near canals"
+}

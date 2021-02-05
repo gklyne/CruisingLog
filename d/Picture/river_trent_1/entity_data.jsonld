@@ -1,19 +1,25 @@
 {
-  "rdfs:label": "River Trent near Shardlow",
-  "rdfs:comment": "This is close to the upper navigable limit of the River Trent",
-  "annal:type_id": "Picture",
-  "annal:id": "river_trent_1",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Picture/river_trent_1",
   "@type": [
     "ccl:Picture",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData",
+  "annal:id": "river_trent_1",
   "annal:picture": {
-    "upload_name": "Picture_upload",
     "resource_name": "Picture_upload.jpg",
-    "uploaded_size": 1707267,
+    "resource_type": "image/jpeg",
+    "upload_name": "Picture_upload",
     "uploaded_file": "20111004-1241-221.jpg",
-    "resource_type": "image/jpeg"
-  }
+    "uploaded_size": 1707267
+  },
+  "annal:type": "ccl:Picture",
+  "annal:type_id": "Picture",
+  "rdfs:comment": "This is close to the upper navigable limit of the River Trent",
+  "rdfs:label": "River Trent near Shardlow"
 }

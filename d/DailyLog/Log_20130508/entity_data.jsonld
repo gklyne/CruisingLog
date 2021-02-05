@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-May-08: Hazelhurst Junction - Milton",
-  "rdfs:comment": "Includes a stop at Park Lane services",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "2",
-  "ccl:engine_fuel": "8.5",
-  "ccl:place_moored": "Milton",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130508/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "4.5",
-      "ccl:place_departed": "Hazelhurst_junction"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130508",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130508",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3721.3"
+  "annal:id": "Log_20130508",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Hazelhurst_junction",
+      "ccl:travel_hours": "4.5"
+    }
+  ],
+  "ccl:engine_fuel": "8.5",
+  "ccl:engine_hours": "3721.3",
+  "ccl:place_moored": "Milton",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "2",
+  "ccl:water_level": "",
+  "rdfs:comment": "Includes a stop at Park Lane services",
+  "rdfs:label": "2013-May-08: Hazelhurst Junction - Milton"
 }

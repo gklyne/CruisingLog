@@ -1,14 +1,21 @@
 {
-  "rdfs:label": "Beeston canal above Nottingham",
-  "rdfs:comment": "Somewhere on the Beeston canal",
-  "annal:type_id": "Place",
-  "ccl:waterway": "River_Trent",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Beeston_canal/",
-  "annal:id": "Beeston_canal",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Beeston_canal",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Beeston_canal",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:uploaded_pictures": [],
+  "ccl:waterway": "Waterway/River_Trent",
+  "rdfs:comment": "Somewhere on the Beeston canal",
+  "rdfs:label": "Beeston canal above Nottingham",
+  "temp:geotag": ""
 }

@@ -1,20 +1,25 @@
 {
-  "rdfs:label": "2012-Apr-20: Shobnall Fields (Burton) - Willington village",
-  "rdfs:comment": "",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "2",
-  "ccl:engine_fuel": "",
-  "ccl:place_moored": "Willington",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120420/",
-  "ccl:cruise_segments": [],
-  "annal:id": "Log_20120420",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20120420",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3570"
+  "annal:id": "Log_20120420",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [],
+  "ccl:engine_fuel": "",
+  "ccl:engine_hours": "3570",
+  "ccl:place_moored": "Willington",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "2",
+  "ccl:water_level": "",
+  "rdfs:comment": "",
+  "rdfs:label": "2012-Apr-20: Shobnall Fields (Burton) - Willington village"
 }

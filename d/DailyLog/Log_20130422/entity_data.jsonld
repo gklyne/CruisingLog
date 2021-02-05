@@ -1,29 +1,34 @@
 {
-  "rdfs:label": "2013-Apr-22: Burton - Barton Water Park - Alrewas",
-  "rdfs:comment": "Overnight <40Ah draw from battery; voltage down to 9.59V.  On-load draw ~2A.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "4.5",
-  "ccl:engine_fuel": "18.5",
-  "ccl:place_moored": "Alrewas",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130422/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "1.5",
-      "ccl:place_departed": "Shobnall_fields"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "3",
-      "ccl:place_departed": "Branston_water_park"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130422",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130422",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3674"
+  "annal:id": "Log_20130422",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Shobnall_fields",
+      "ccl:travel_hours": "1.5"
+    },
+    {
+      "ccl:place_departed": "Branston_water_park",
+      "ccl:travel_hours": "3"
+    }
+  ],
+  "ccl:engine_fuel": "18.5",
+  "ccl:engine_hours": "3674",
+  "ccl:place_moored": "Alrewas",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "4.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Overnight <40Ah draw from battery; voltage down to 9.59V.  On-load draw ~2A.",
+  "rdfs:label": "2013-Apr-22: Burton - Barton Water Park - Alrewas"
 }

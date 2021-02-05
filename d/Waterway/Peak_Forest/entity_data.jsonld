@@ -1,13 +1,18 @@
 {
-  "rdfs:label": "Peak Forest canal",
-  "rdfs:comment": "Runs from Marple towards the Peak District.  Termini at Bugsworth Basin and Whaley Bridge.\r\n\r\nJoins with the Macclesfield and Ashton canals at Marple.\r\n\r\nNote: it's not really worth cruising to Whaley Bridge: it's quite close to Bugsworth Basin (about 20 minutes walk) and the moorings at Bugsworth basin are much nicer, and there are services there.  Bugswrth Basin moorings are limited to 48 hours.\r\n",
-  "annal:url": "/annalist/c/CruisingLog/d/Waterway/Peak_Forest/",
-  "annal:type_id": "Waterway",
-  "annal:id": "Peak_Forest",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Waterway/Peak_Forest",
   "@type": [
     "ccl:Waterway",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Peak_Forest",
+  "annal:type": "ccl:Waterway",
+  "annal:type_id": "Waterway",
+  "rdfs:comment": "Runs from Marple towards the Peak District.  Termini at Bugsworth Basin and Whaley Bridge.\r\n\r\nJoins with the Macclesfield and Ashton canals at Marple.\r\n\r\nNote: it's not really worth cruising to Whaley Bridge: it's quite close to Bugsworth Basin (about 20 minutes walk) and the moorings at Bugsworth basin are much nicer, and there are services there.  Bugswrth Basin moorings are limited to 48 hours.\r\n",
+  "rdfs:label": "Peak Forest canal"
 }

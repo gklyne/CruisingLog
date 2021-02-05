@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Nottingham centre",
-  "rdfs:comment": "Moorings close to town centre just above sharp bend in canal.  Castle Brewery Tap (?) pub opposite.  Decent moorings, very urban.\r\n\r\nNOTE:  winding is possible at sharp bend in Nottingham; not shown in Nicholsons or Geo projects map.  Perarson was on the ball, though.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "River_Trent",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Nottingham/",
-  "annal:id": "Nottingham",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Nottingham",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Nottingham",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "River_Trent",
+  "rdfs:comment": "Moorings close to town centre just above sharp bend in canal.  Castle Brewery Tap (?) pub opposite.  Decent moorings, very urban.\r\n\r\nNOTE:  winding is possible at sharp bend in Nottingham; not shown in Nicholsons or Geo projects map.  Perarson was on the ball, though.\r\n",
+  "rdfs:label": "Nottingham centre"
 }

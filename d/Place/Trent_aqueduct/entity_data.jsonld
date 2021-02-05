@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Trent Aqueduct",
-  "rdfs:comment": "A pleasant mooring about half an hour's cruise from Rugeley centre, with views over the River Trent and the Trent Valley.\r\n\r\nMooring rings available.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Trent_aqueduct/",
-  "annal:id": "Trent_aqueduct",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Trent_aqueduct",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Trent_aqueduct",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "A pleasant mooring about half an hour's cruise from Rugeley centre, with views over the River Trent and the Trent Valley.\r\n\r\nMooring rings available.",
+  "rdfs:label": "Trent Aqueduct"
 }

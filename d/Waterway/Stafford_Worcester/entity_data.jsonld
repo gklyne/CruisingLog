@@ -1,13 +1,18 @@
 {
-  "rdfs:label": "Stafford and Worcester Canal",
-  "rdfs:comment": "Mostly pleasant canal running from the Trent and Mersey at Great Haywood to the River Severn at Stourport.\r\n\r\nIt passes through Wolverhampton, Autherly Junction with the Shropshire Union, and another nearby junction with the BCN mainline (?)\r\n\r\nThe the northern approach to Wolverhampton is a bit nondescript (but not unpleasant).\r\n",
-  "annal:type_id": "Waterway",
-  "annal:url": "/annalist/c/CruisingLog/d/Waterway/Stafford_Worcester/",
-  "annal:id": "Stafford_Worcester",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Waterway/Stafford_Worcester",
   "@type": [
     "ccl:Waterway",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Stafford_Worcester",
+  "annal:type": "ccl:Waterway",
+  "annal:type_id": "Waterway",
+  "rdfs:comment": "Mostly pleasant canal running from the Trent and Mersey at Great Haywood to the River Severn at Stourport.\r\n\r\nIt passes through Wolverhampton, Autherly Junction with the Shropshire Union, and another nearby junction with the BCN mainline (?)\r\n\r\nThe the northern approach to Wolverhampton is a bit nondescript (but not unpleasant).\r\n",
+  "rdfs:label": "Stafford and Worcester Canal"
 }

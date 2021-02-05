@@ -1,33 +1,38 @@
 {
-  "rdfs:label": "2012-Jul-25: Fools Nook - Marple",
-  "rdfs:comment": "Refueled by barge Alton (Renaissance Carrying)\r\nEst 10\" before refuel.\r\nEngine: 75litres -> 22.5\"\r\nStove: 62 litres -> 20?\r\n\r\nFinal location was on the Peak Forest canal near Marple.  It took us some time to find a sufficiently deep mooring - the Peak Forest canal near Marple is rather shallow at the edges.\r\n\r\nAt Bollington: engine 3612.2, fuel 22.25\"\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "5.5",
-  "ccl:engine_fuel": "21",
-  "ccl:place_moored": "Marple",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120725/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "2.5",
-      "ccl:place_departed": "Fools_Nook"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "2.5",
-      "ccl:place_departed": "Bollington"
-    },
-    {
-      "ccl:travel_hours": "0.5",
-      "ccl:place_departed": "Marple"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120725",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120725",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3616.6"
+  "annal:id": "Log_20120725",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Fools_Nook",
+      "ccl:travel_hours": "2.5"
+    },
+    {
+      "ccl:place_departed": "Bollington",
+      "ccl:travel_hours": "2.5"
+    },
+    {
+      "ccl:place_departed": "Marple",
+      "ccl:travel_hours": "0.5"
+    }
+  ],
+  "ccl:engine_fuel": "21",
+  "ccl:engine_hours": "3616.6",
+  "ccl:place_moored": "Marple",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "5.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Refueled by barge Alton (Renaissance Carrying)\r\nEst 10\" before refuel.\r\nEngine: 75litres -> 22.5\"\r\nStove: 62 litres -> 20?\r\n\r\nFinal location was on the Peak Forest canal near Marple.  It took us some time to find a sufficiently deep mooring - the Peak Forest canal near Marple is rather shallow at the edges.\r\n\r\nAt Bollington: engine 3612.2, fuel 22.25\"\r\n",
+  "rdfs:label": "2012-Jul-25: Fools Nook - Marple"
 }

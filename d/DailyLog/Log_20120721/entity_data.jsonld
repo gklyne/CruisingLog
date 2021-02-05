@@ -1,29 +1,34 @@
 {
-  "rdfs:label": "2012-Jul-21: Kings Bromley/Handsacre - Shugborough - Aston Lock",
-  "rdfs:comment": "Long day of cruising to get us well on our way to the Macclesfield Canal.\r\n\r\nUsed about 2.5\"/14litres of fuel today.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "9.5",
-  "ccl:engine_fuel": "14\"",
-  "ccl:place_moored": "Aston_lock",
-  "ccl:engine_hours": "3592",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120721/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "4",
-      "ccl:place_departed": "Tuppenhurst"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "5.5",
-      "ccl:place_departed": "Shugborough_hall"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120721",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120721",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20120721",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Tuppenhurst",
+      "ccl:travel_hours": "4"
+    },
+    {
+      "ccl:place_departed": "Shugborough_hall",
+      "ccl:travel_hours": "5.5"
+    }
+  ],
+  "ccl:engine_fuel": "14\"",
+  "ccl:engine_hours": "3592",
+  "ccl:place_moored": "Aston_lock",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "9.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Long day of cruising to get us well on our way to the Macclesfield Canal.\r\n\r\nUsed about 2.5\"/14litres of fuel today.",
+  "rdfs:label": "2012-Jul-21: Kings Bromley/Handsacre - Shugborough - Aston Lock"
 }

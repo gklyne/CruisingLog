@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Kings Bromley",
-  "rdfs:comment": "Remote marina on Trent and Mersey canal between Fradley and Handsacre/Rugely",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Kings_Bromley/",
-  "annal:id": "Kings_Bromley",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Kings_Bromley",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Kings_Bromley",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Remote marina on Trent and Mersey canal between Fradley and Handsacre/Rugely",
+  "rdfs:label": "Kings Bromley"
 }

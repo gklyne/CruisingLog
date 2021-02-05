@@ -1,19 +1,24 @@
 {
-  "rdfs:label": "2011-Oct-10: Cranfleet cut - Shardlow - Mercia",
-  "rdfs:comment": "Long run home, no problems!\r\n\r\nCranfleet cut - Shardlow: 2 hrs\r\nShardlow - Mercia: 5.5 hours\r\n\r\nRefueled in marina:  \r\n10.25\" before, 21\" after, 61.06 litres taken;\r\ntalk capacity: 5.68 litres/inch (for total of about 120 litres)\r\nfuel use: 1.43 litres/hour\r\n",
-  "ccl:water_level": "15",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "7.5",
-  "ccl:engine_fuel": "10.5",
-  "ccl:place_moored": "Mercia_marina",
-  "ccl:engine_hours": "3491.8",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111010/",
-  "annal:id": "Log_20111010",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20111010",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20111010",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:engine_fuel": "10.5",
+  "ccl:engine_hours": "3491.8",
+  "ccl:place_moored": "Mercia_marina",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "7.5",
+  "ccl:water_level": "15",
+  "rdfs:comment": "Long run home, no problems!\r\n\r\nCranfleet cut - Shardlow: 2 hrs\r\nShardlow - Mercia: 5.5 hours\r\n\r\nRefueled in marina:  \r\n10.25\" before, 21\" after, 61.06 litres taken;\r\ntalk capacity: 5.68 litres/inch (for total of about 120 litres)\r\nfuel use: 1.43 litres/hour\r\n",
+  "rdfs:label": "2011-Oct-10: Cranfleet cut - Shardlow - Mercia"
 }

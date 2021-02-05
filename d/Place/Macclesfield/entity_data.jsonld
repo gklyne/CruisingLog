@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Macclesfield",
-  "rdfs:comment": "Substantial market town.  Canal passes nearby, but moorings are quite scarce.\r\n\r\nWe have moored in Gurnet and walked in - about 15-20 minutes.",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Macclesfield_canal",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Macclesfield/",
-  "annal:id": "Macclesfield",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Macclesfield",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Macclesfield",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Macclesfield_canal",
+  "rdfs:comment": "Substantial market town.  Canal passes nearby, but moorings are quite scarce.\r\n\r\nWe have moored in Gurnet and walked in - about 15-20 minutes.",
+  "rdfs:label": "Macclesfield"
 }

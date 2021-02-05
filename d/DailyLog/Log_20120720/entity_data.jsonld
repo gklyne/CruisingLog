@@ -1,29 +1,34 @@
 {
-  "rdfs:label": "2012-Jul-20: Mercia - Alrewas - Kings Bromley/Handsacre",
-  "rdfs:comment": "Long day of cruising to get us well on our way to the Macclesfield Canal.\r\n\r\nUsed about 2.5\"/14litres of fuel today.",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "10",
-  "ccl:engine_fuel": "16\"",
-  "ccl:place_moored": "Tuppenhurst",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120720/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "6",
-      "ccl:place_departed": "Mercia_marina"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "4",
-      "ccl:place_departed": "Alrewas"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120720",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120720",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3582"
+  "annal:id": "Log_20120720",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Mercia_marina",
+      "ccl:travel_hours": "6"
+    },
+    {
+      "ccl:place_departed": "Alrewas",
+      "ccl:travel_hours": "4"
+    }
+  ],
+  "ccl:engine_fuel": "16\"",
+  "ccl:engine_hours": "3582",
+  "ccl:place_moored": "Tuppenhurst",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "10",
+  "ccl:water_level": "",
+  "rdfs:comment": "Long day of cruising to get us well on our way to the Macclesfield Canal.\r\n\r\nUsed about 2.5\"/14litres of fuel today.",
+  "rdfs:label": "2012-Jul-20: Mercia - Alrewas - Kings Bromley/Handsacre"
 }

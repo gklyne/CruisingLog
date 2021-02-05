@@ -1,19 +1,25 @@
 {
-  "rdfs:label": "Shobnall daffodils (4)",
-  "rdfs:comment": "Another picture of Shobnall daffodils",
-  "annal:type_id": "Picture",
-  "annal:id": "shobnall_daffodils_4",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Picture/shobnall_daffodils_4",
   "@type": [
     "ccl:Picture",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData",
+  "annal:id": "shobnall_daffodils_4",
   "annal:picture": {
-    "upload_name": "Picture_upload",
-    "uploaded_size": 7478563,
     "resource_name": "Picture_upload.jpg",
+    "resource_type": "image/jpeg",
+    "upload_name": "Picture_upload",
     "uploaded_file": "20120405-1734-336.jpg",
-    "resource_type": "image/jpeg"
-  }
+    "uploaded_size": 7478563
+  },
+  "annal:type": "ccl:Picture",
+  "annal:type_id": "Picture",
+  "rdfs:comment": "Another picture of Shobnall daffodils",
+  "rdfs:label": "Shobnall daffodils (4)"
 }

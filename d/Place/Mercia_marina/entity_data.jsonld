@@ -1,21 +1,28 @@
 {
-  "rdfs:label": "Mercia marina",
-  "rdfs:comment": "Big chandlery (Midland), all facilities.\r\n\r\nAbout half hour cruise from Willington village, which has shops, water, elsan, winding hole.",
-  "ccl:picture": "http://luggage.atuin.ninebynine.org/pic/2013/20130907-Mercia/20130907-1713-099.jpg",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Mercia_marina/",
-  "annal:type_id": "Place",
-  "ccl:pictures": [
+  "@context": [
     {
-      "ccl:picture": "https://farm8.staticflickr.com/7372/16304319020_3614ae5029_z_d.jpg",
-      "ccl:annotation": "## Mercia marina\r\n\r\nView from Urquhart Castle mooring."
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Mercia_marina",
-  "@id": "./",
+  "@id": "Place/Mercia_marina",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Mercia_marina",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:picture": "http://luggage.atuin.ninebynine.org/pic/2013/20130907-Mercia/20130907-1713-099.jpg",
+  "ccl:pictures": [
+    {
+      "ccl:annotation": "## Mercia marina\r\n\r\nView from Urquhart Castle mooring.",
+      "ccl:picture": "https://farm8.staticflickr.com/7372/16304319020_3614ae5029_z_d.jpg"
+    }
+  ],
+  "ccl:uploaded_pictures": [],
+  "ccl:waterway": "Waterway/Trent_Mersey",
+  "rdfs:comment": "Big chandlery (Midland), all facilities.\r\n\r\nAbout half hour cruise from Willington village, which has shops, water, elsan, winding hole.",
+  "rdfs:label": "Mercia marina",
+  "temp:geotag": "geo:xyz,abd"
 }

@@ -1,0 +1,21 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Picture",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Picture",
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "Picture_list",
+  "annal:type_view": "Picture_view",
+  "annal:uri": "ccl:Picture",
+  "rdfs:comment": "Annotated picture",
+  "rdfs:label": "Picture"
+}

@@ -1,0 +1,28 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Waterway",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "Waterway",
+  "annal:field_render_type": "_enum_render_type/Enum",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Slug",
+  "annal:id": "Waterway",
+  "annal:placeholder": "(Waterway)",
+  "annal:property_uri": "ccl:waterway",
+  "annal:tooltip": "Canal, river or other waterway",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "annal:uri": "/annalist/c/CruisingLog/d/_field/Waterway/",
+  "rdfs:comment": "# Waterway\r\n\r\nCanal, river or other waterway",
+  "rdfs:label": "Waterway"
+}

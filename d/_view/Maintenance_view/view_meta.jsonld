@@ -1,0 +1,42 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_view/Maintenance_view",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:add_field": "yes",
+  "annal:edit_view": true,
+  "annal:id": "Maintenance_view",
+  "annal:record_type": "ccl:Maintenance",
+  "annal:type": "annal:View",
+  "annal:type_id": "_view",
+  "annal:view_fields": [
+    {
+      "annal:field_id": "Entity_id",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "Place_moored",
+      "annal:field_placement": "",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "Entity_label",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "Maintenance_notes",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    }
+  ],
+  "rdfs:comment": "Form displaying maintenance details\r\n\r\nUse date for Id, label for topic, comment for details",
+  "rdfs:label": "Maintenance view form"
+}

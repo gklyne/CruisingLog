@@ -1,29 +1,34 @@
 {
-  "rdfs:label": "2012-Jul-22: Aston Lock - Etruria - Westport Lake",
-  "rdfs:comment": "Aston - Etruria leg included stops for loo and shopping)\r\n\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "9.5",
-  "ccl:engine_fuel": "12\"",
-  "ccl:place_moored": "Westport_lake",
-  "ccl:engine_hours": "3599.3",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20120722/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "6.75",
-      "ccl:place_departed": "Aston_lock"
+      "@base": "../../"
     },
-    {
-      "ccl:travel_hours": "1",
-      "ccl:place_departed": "Etruria"
-    }
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20120722",
-  "@id": "./",
+  "@id": "DailyLog/Log_20120722",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20120722",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Aston_lock",
+      "ccl:travel_hours": "6.75"
+    },
+    {
+      "ccl:place_departed": "Etruria",
+      "ccl:travel_hours": "1"
+    }
+  ],
+  "ccl:engine_fuel": "12\"",
+  "ccl:engine_hours": "3599.3",
+  "ccl:place_moored": "Westport_lake",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "9.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Aston - Etruria leg included stops for loo and shopping)\r\n\r\n",
+  "rdfs:label": "2012-Jul-22: Aston Lock - Etruria - Westport Lake"
 }

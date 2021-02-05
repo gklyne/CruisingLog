@@ -1,25 +1,30 @@
 {
-  "rdfs:label": "2013-Apr-27: Stone - Etruria",
-  "rdfs:comment": "Travel time includes stop for sanitary station and breakfast ~ est actual cruising time 6.5h\r\n\r\nBattery fully charged at end (but not after 2.5h)\r\n",
-  "ccl:water_level": "",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "7.5",
-  "ccl:engine_fuel": "14",
-  "ccl:place_moored": "Etruria",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20130427/",
-  "ccl:cruise_segments": [
+  "@context": [
     {
-      "ccl:travel_hours": "7.5",
-      "ccl:place_departed": "Stone"
-    }
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
   ],
-  "annal:id": "Log_20130427",
-  "@id": "./",
+  "@id": "DailyLog/Log_20130427",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3695"
+  "annal:id": "Log_20130427",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:cruise_segments": [
+    {
+      "ccl:place_departed": "Stone",
+      "ccl:travel_hours": "7.5"
+    }
+  ],
+  "ccl:engine_fuel": "14",
+  "ccl:engine_hours": "3695",
+  "ccl:place_moored": "Etruria",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "7.5",
+  "ccl:water_level": "",
+  "rdfs:comment": "Travel time includes stop for sanitary station and breakfast ~ est actual cruising time 6.5h\r\n\r\nBattery fully charged at end (but not after 2.5h)\r\n",
+  "rdfs:label": "2013-Apr-27: Stone - Etruria"
 }

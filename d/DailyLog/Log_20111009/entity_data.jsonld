@@ -1,19 +1,24 @@
 {
-  "rdfs:label": "2011-Oct-09: Nottingham - Cranfleet cut",
-  "rdfs:comment": "(Travel time 5 hours includes stop for water)\r\n\r\nEngine start OK, having isolated battery overnight.\r\n\r\nNottingham - Beeston: 2 hours\r\nBeeston - Cranfleet river section: 2 hours\r\n+ locking times, etc.\r\n\r\nWater 18-19\" when full.\r\n\r\nEstimating 3.7 cruising hours per inch of fuel tank.\r\n",
-  "ccl:water_level": "18",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "5",
-  "ccl:engine_fuel": "12",
-  "ccl:place_moored": "Cranfleet_cut",
-  "ccl:engine_hours": "3484.7",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111009/",
-  "annal:id": "Log_20111009",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20111009",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Log_20111009",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:engine_fuel": "12",
+  "ccl:engine_hours": "3484.7",
+  "ccl:place_moored": "Cranfleet_cut",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "5",
+  "ccl:water_level": "18",
+  "rdfs:comment": "(Travel time 5 hours includes stop for water)\r\n\r\nEngine start OK, having isolated battery overnight.\r\n\r\nNottingham - Beeston: 2 hours\r\nBeeston - Cranfleet river section: 2 hours\r\n+ locking times, etc.\r\n\r\nWater 18-19\" when full.\r\n\r\nEstimating 3.7 cruising hours per inch of fuel tank.\r\n",
+  "rdfs:label": "2011-Oct-09: Nottingham - Cranfleet cut"
 }

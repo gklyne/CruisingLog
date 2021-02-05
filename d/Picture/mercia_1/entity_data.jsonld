@@ -1,19 +1,25 @@
 {
-  "rdfs:label": "Mercia Marina autumn morning",
-  "rdfs:comment": "Mercia Marina autumn morning",
-  "annal:type_id": "Picture",
-  "annal:id": "mercia_1",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Picture/mercia_1",
   "@type": [
     "ccl:Picture",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData",
+  "annal:id": "mercia_1",
   "annal:picture": {
-    "upload_name": "Picture_upload",
-    "uploaded_size": 3344306,
     "resource_name": "Picture_upload.jpg",
+    "resource_type": "image/jpeg",
+    "upload_name": "Picture_upload",
     "uploaded_file": "20111015-0735-024.jpg",
-    "resource_type": "image/jpeg"
-  }
+    "uploaded_size": 3344306
+  },
+  "annal:type": "ccl:Picture",
+  "annal:type_id": "Picture",
+  "rdfs:comment": "Mercia Marina autumn morning",
+  "rdfs:label": "Mercia Marina autumn morning"
 }

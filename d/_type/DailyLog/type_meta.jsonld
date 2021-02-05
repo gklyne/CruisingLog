@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/DailyLog",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:id": "DailyLog",
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "DailyLog_list",
+  "annal:type_view": "Dailylog_view",
+  "annal:uri": "ccl:DailyLog",
+  "rdfs:comment": "General record of cruising and maintenance in a given day",
+  "rdfs:label": "Daily cruising log"
+}

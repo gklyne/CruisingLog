@@ -1,0 +1,42 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_view/Default_view",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:add_field": "yes",
+  "annal:id": "Default_view",
+  "annal:record_type": "",
+  "annal:type": "annal:View",
+  "annal:type_id": "_view",
+  "annal:uri": "annal:display/Default_view",
+  "annal:view_fields": [
+    {
+      "annal:field_id": "Entity_id",
+      "annal:field_placement": "small:0,12;medium:0,6"
+    },
+    {
+      "annal:field_id": "Entity_type",
+      "annal:field_placement": "small:0,12;medium:6,6right"
+    },
+    {
+      "annal:field_id": "Entity_label",
+      "annal:field_placement": "small:0,12"
+    },
+    {
+      "annal:field_id": "Entity_comment",
+      "annal:field_placement": "small:0,12"
+    },
+    {
+      "annal:field_id": "Waterway",
+      "annal:field_placement": "small:0,12;medium:0,6"
+    }
+  ],
+  "rdfs:comment": "Default record view, applied when no view is specified when creating a record.",
+  "rdfs:label": "Default record view"
+}

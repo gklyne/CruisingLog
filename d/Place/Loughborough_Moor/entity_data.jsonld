@@ -1,6 +1,18 @@
 {
-  "rdfs:label": "Loughborough Moor",
-  "rdfs:comment": "A rural mooring on the outskirts of Loughborough.",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Loughborough_Moor",
+  "@type": [
+    "ccl:Place",
+    "annal:EntityData"
+  ],
+  "annal:id": "Loughborough_Moor",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
   "ccl:uploaded_pictures": [
     {
       "ccl:picture": "loughborough_moor_1"
@@ -9,13 +21,7 @@
       "ccl:picture": "loughborough_moor_2"
     }
   ],
-  "annal:type_id": "Place",
   "ccl:waterway": "River_Soar",
-  "annal:id": "Loughborough_Moor",
-  "@id": "./",
-  "@type": [
-    "ccl:Place",
-    "annal:EntityData"
-  ],
-  "annal:type": "annal:EntityData"
+  "rdfs:comment": "A rural mooring on the outskirts of Loughborough.",
+  "rdfs:label": "Loughborough Moor"
 }

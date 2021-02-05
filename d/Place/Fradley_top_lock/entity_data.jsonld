@@ -1,14 +1,19 @@
 {
-  "rdfs:label": "Fradley top lock",
-  "rdfs:comment": "Shadehouse lock, above Fradley Junction.  \r\n\r\nPleasant 14 day moorings here, but being exposed can sometimes be windy.  Woodlands nearby.\r\n",
-  "annal:type_id": "Place",
-  "ccl:waterway": "Trent_Mersey",
-  "annal:url": "/annalist/c/CruisingLog/d/Place/Fradley_top_lock/",
-  "annal:id": "Fradley_top_lock",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Place/Fradley_top_lock",
   "@type": [
     "ccl:Place",
     "annal:EntityData"
   ],
-  "annal:type": "annal:EntityData"
+  "annal:id": "Fradley_top_lock",
+  "annal:type": "ccl:Place",
+  "annal:type_id": "Place",
+  "ccl:waterway": "Trent_Mersey",
+  "rdfs:comment": "Shadehouse lock, above Fradley Junction.  \r\n\r\nPleasant 14 day moorings here, but being exposed can sometimes be windy.  Woodlands nearby.\r\n",
+  "rdfs:label": "Fradley top lock"
 }

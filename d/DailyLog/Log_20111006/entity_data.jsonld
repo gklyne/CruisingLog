@@ -1,19 +1,24 @@
 {
-  "rdfs:label": "2011-Oct-06: Loghborough Moor - Pillings Lock - Loughborough",
-  "rdfs:comment": "Engine failed to start this morning.  Called RCR.  Advised problem may be insufficient charge from alternator (not convinced).  I did notice this evening that turning the engine battery isolator causes a relay to click.  Suggests some battery drain while battery not isolated, if only to hold solenoid.\r\n\r\nCan jump start by connecting +ve domesgtic battery to +ve engine battery (that's what RCR engineer did).  Bought jump leads in Loughborough.\r\n\r\nDisconnected starter battery when moored.\r\n",
-  "ccl:water_level": "6.75",
-  "ccl:stove_fuel": "",
-  "annal:type_id": "DailyLog",
-  "ccl:travel_hours": "2",
-  "ccl:engine_fuel": "15",
-  "ccl:place_moored": "Loughborough",
-  "annal:type": "annal:EntityData",
-  "annal:url": "/annalist/c/CruisingLog/d/DailyLog/Log_20111006/",
-  "annal:id": "Log_20111006",
-  "@id": "./",
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "DailyLog/Log_20111006",
   "@type": [
     "ccl:DailyLog",
     "annal:EntityData"
   ],
-  "ccl:engine_hours": "3472.3"
+  "annal:id": "Log_20111006",
+  "annal:type": "ccl:DailyLog",
+  "annal:type_id": "DailyLog",
+  "ccl:engine_fuel": "15",
+  "ccl:engine_hours": "3472.3",
+  "ccl:place_moored": "Loughborough",
+  "ccl:stove_fuel": "",
+  "ccl:travel_hours": "2",
+  "ccl:water_level": "6.75",
+  "rdfs:comment": "Engine failed to start this morning.  Called RCR.  Advised problem may be insufficient charge from alternator (not convinced).  I did notice this evening that turning the engine battery isolator causes a relay to click.  Suggests some battery drain while battery not isolated, if only to hold solenoid.\r\n\r\nCan jump start by connecting +ve domesgtic battery to +ve engine battery (that's what RCR engineer did).  Bought jump leads in Loughborough.\r\n\r\nDisconnected starter battery when moored.\r\n",
+  "rdfs:label": "2011-Oct-06: Loghborough Moor - Pillings Lock - Loughborough"
 }
